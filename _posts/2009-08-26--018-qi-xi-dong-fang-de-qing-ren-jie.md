@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2009-08-26
 tags: [七夕, 情人节, 神话, 节日, ]
 categories: ["History and Tradition", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_018.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_018.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

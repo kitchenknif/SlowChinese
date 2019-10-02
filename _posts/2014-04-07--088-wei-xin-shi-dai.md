@@ -5,6 +5,10 @@ author: 希茜 Xixi
 date: 2014-04-07
 tags: [上网, 微信, 社交软件, ]
 categories: ["Modern China", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_088.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_088.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2009-07-20
 tags: [吃饭, 法律, 酒, 饭店, ]
 categories: ["History and Tradition", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_010.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_010.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

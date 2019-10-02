@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2009-09-02
 tags: [冷僻字, 囧, 汉字, 流行词, ]
 categories: ["Language", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_019.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_019.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

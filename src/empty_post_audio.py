@@ -78,8 +78,15 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                 outlines.append("title: "+title+"\n")
                 outlines.append("author: "+author+"\n")
                 outlines.append("date: " + "{:04d}-{:02d}-{:02d}".format(date.year, date.month, date.day) + "\n")
-                outlines.append("categories: []")
-                outlines.append("tags: []")
+                outlines.append("categories: []\n")
+                outlines.append("tags: []\n")
+
+                if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
+                    outlines.append("file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(episode_num))
+                    outlines.append("summary: \"\"\n")
+                    outlines.append("duration: \"\"\n")
+                    outlines.append("length: \"\"\n")
+
                 outlines.append("---\n\n")
                 #
 

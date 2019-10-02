@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2009-12-10
 tags: [外来语, 爱好者, 粉丝, 迷, ]
 categories: ["Language", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_031.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_031.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

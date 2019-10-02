@@ -5,6 +5,10 @@ author: 艳君 Yanjun and 沛竺 Peizhu
 date: 2016-05-30
 tags: [文学, 漫画, 钱海燕, ]
 categories: ["Pop Culture", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_161.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_161.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

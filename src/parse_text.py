@@ -65,6 +65,14 @@ for dirpath, dnames, fnames in os.walk(workingdir):
                 outlines.append("\"" + tag + "\", ")
             outlines.append("]\n")
 
+            if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
+                outlines.append(
+                    "file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
+                        episode_num))
+                outlines.append("summary: \"\"\n")
+                outlines.append("duration: \"\"\n")
+                outlines.append("length: \"\"\n")
+
             # # image: cutting.jpg
             outlines.append("---\n\n")
             #
@@ -77,6 +85,9 @@ for dirpath, dnames, fnames in os.walk(workingdir):
                 embed = "<iframe src=\"https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\" width=\"500\" height=\"30\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen></iframe>\n"
                 embed = embed.format(episode_num)
                 outlines.append(embed)
+
+
+
 
             transcript = []
             if len(soup.article.find_all("div", id="-0")) == 0:

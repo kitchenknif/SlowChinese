@@ -5,6 +5,10 @@ author: 沛竺 Peizhu
 date: 2017-01-16
 tags: [妈妈, 文化差异, 生活, 看法, 美国, ]
 categories: ["Modern China", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_175.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_175.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

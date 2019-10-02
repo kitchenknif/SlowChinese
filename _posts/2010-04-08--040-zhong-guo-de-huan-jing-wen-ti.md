@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2010-04-08
 tags: [人口, 北京, 灾难, 环境问题, ]
 categories: ["Modern China", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_040.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_040.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

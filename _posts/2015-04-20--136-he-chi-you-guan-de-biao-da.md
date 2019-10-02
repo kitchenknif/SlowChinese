@@ -5,6 +5,10 @@ author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-04-20
 tags: [吃饭, ]
 categories: ["Language", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_136.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_136.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

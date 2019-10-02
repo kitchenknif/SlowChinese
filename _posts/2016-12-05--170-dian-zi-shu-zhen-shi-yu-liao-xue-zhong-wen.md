@@ -5,6 +5,10 @@ author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2016-12-05
 tags: [汉字, 电子书, 真实语料, ]
 categories: ["Language", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_170.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_170.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

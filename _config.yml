@@ -11,7 +11,7 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            10
 
 # Build settings
 markdown:            kramdown
@@ -24,6 +24,10 @@ url:                 https://kitchenknif.github.io/SlowChinese
 title:		         '慢速中文 Slow Chinese'
 description:	     'Chinese Cultural Podcast'
 author:              ''
+email:               ''
+subtitle:            "Chinese cultural podcast read in slow chinese"
+lang:                Zh
+
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

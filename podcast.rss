@@ -1,0 +1,52 @@
+---
+
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+	<channel>
+		<atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>{{ site.title }}</title>
+		<description>{{ site.description | xml_escape }}</description>
+		<link>{{ site.url }}</link>
+		<language>{{ site.lang }}</language>
+		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
+		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<copyright>2009-2018 {{ site.title }}</copyright>
+		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<image>
+			<link>{{ site.url }}</link>
+			<url>{{ site.url }}/images/album_cover.jpg</url>
+			<title>{{ site.title }}</title>
+		</image>
+		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+		<itunes:author>{{ site.author }}</itunes:author>
+		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>{{ site.author }}</itunes:name>
+			<itunes:email>{{ site.email }}</itunes:email>
+		</itunes:owner>
+		<itunes:image href="{{ site.url }}/assets/img/album_cover.jpg" />
+		<itunes:category text="Language" />
+		<itunes:category text="Chinese" />
+		<itunes:category text="China" />
+		<itunes:explicit>no</itunes:explicit>
+		{% for post in site.posts %}
+			<item>
+				<title>{{ post.title | xml_escape }}</title>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<description>{{ post.excerpt | xml_escape }}</description>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<enclosure url="http:{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+				<itunes:author>{{ site.author }}</itunes:author>
+				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
+				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+				<itunes:duration>{{ post.duration }}</itunes:duration>
+				<itunes:keywords>{{ post.tags }}</itunes:keywords>
+				<itunes:image href="{{ site.url }}/assets/img/album_cover.jpg" />
+			</item>
+		{% endfor %}
+	</channel>
+</rss>

@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2009-09-23
 tags: [南京大屠杀, 抗日战争, 电影, ]
 categories: ["Pop Culture", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_022.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_022.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

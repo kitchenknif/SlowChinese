@@ -5,6 +5,10 @@ author: 独怡 Duyi and 小璐 Xiaolu
 date: 2014-01-06
 tags: [中国好声音, 张玮, 流行音乐, ]
 categories: ["Pop Culture", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_075.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_075.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

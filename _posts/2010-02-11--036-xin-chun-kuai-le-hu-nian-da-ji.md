@@ -5,6 +5,10 @@ author: 昕煜 Xinyu
 date: 2010-02-11
 tags: [农历, 吃饭, 春节, 节日, ]
 categories: ["History and Tradition", ]
+file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_036.mp3
+summary: ""
+duration: ""
+length: ""
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_036.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
