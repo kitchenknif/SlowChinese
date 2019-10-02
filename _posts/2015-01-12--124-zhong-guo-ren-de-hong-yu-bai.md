@@ -5,7 +5,7 @@ author: 独怡 Duyi and 希茜 Xixi
 date: 2015-01-12
 tags: [结婚, 节日, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_124.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_124.mp3
 summary: ""
 duration: ""
 length: ""

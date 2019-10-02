@@ -5,7 +5,7 @@ author: 独怡 Duyi and 小璐 Xiaolu
 date: 2014-12-08
 tags: [学渣, 学霸, 年轻人, 网络语言, ]
 categories: ["Language", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_120.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_120.mp3
 summary: ""
 duration: ""
 length: ""

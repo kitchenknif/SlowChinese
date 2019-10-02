@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2015-03-09
 tags: [聊天, 话题, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_131.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_131.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-12-29
 tags: [习惯, 文化冲击, 美国, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_122.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_122.mp3
 summary: ""
 duration: ""
 length: ""

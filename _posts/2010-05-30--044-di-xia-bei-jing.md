@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-05-30
 tags: [798, 北京, 摇滚, 文学, 迷笛音乐节, ]
 categories: ["Backpack China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_044.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_044.mp3
 summary: ""
 duration: ""
 length: ""

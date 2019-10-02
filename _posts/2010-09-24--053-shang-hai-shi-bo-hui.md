@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-09-24
 tags: [上海, 上海世博会, 展览, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_053.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_053.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-07-01
 tags: [中国制造, 山寨, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_047.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_047.mp3
 summary: ""
 duration: ""
 length: ""

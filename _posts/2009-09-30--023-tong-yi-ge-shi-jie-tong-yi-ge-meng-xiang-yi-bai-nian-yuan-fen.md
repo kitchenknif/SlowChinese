@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-09-30
 tags: [北京, 奥运会, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_023.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_023.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-03-17
 tags: [国宝, 熊猫, ]
 categories: ["Language", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_038.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_038.mp3
 summary: ""
 duration: ""
 length: ""

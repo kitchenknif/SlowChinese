@@ -5,7 +5,7 @@ author: 沛竺 Peizhu
 date: 2017-06-05
 tags: [历史, 文字, 甲骨文, ]
 categories: ["Language", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_188.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_188.mp3
 summary: ""
 duration: ""
 length: ""

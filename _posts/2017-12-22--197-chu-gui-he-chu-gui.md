@@ -5,7 +5,7 @@ author: Yanjun and Xixi
 date: 2017-12-22
 tags: [出柜, 出轨, 声调, ]
 categories: ["Language", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_197.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_197.mp3
 summary: ""
 duration: ""
 length: ""

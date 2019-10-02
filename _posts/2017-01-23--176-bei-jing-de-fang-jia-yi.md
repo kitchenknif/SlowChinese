@@ -5,7 +5,7 @@ author: 独怡 Duyi and 希茜 Xixi
 date: 2017-01-23
 tags: [北京, 房价, 房子, 涨价, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_176.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_176.mp3
 summary: ""
 duration: ""
 length: ""

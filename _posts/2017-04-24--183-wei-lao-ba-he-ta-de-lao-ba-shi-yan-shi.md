@@ -5,7 +5,7 @@ author: 独怡 Duyi & 希茜 Xixi
 date: 2017-04-24
 categories: []
 tags: []
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_183.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_183.mp3
 summary: ""
 duration: ""
 length: ""

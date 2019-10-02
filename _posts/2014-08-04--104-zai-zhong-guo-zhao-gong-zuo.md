@@ -5,7 +5,7 @@ author: 独怡 Duyi and 希茜 Xixi
 date: 2014-08-04
 tags: [找工作, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_104.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_104.mp3
 summary: ""
 duration: ""
 length: ""

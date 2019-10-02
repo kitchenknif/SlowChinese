@@ -5,7 +5,7 @@ author: Slow Chinese
 date: 2017-12-22
 categories: []
 tags: []
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_204.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_204.mp3
 summary: ""
 duration: ""
 length: ""

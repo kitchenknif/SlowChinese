@@ -5,7 +5,7 @@ author: 项义凤 Tina Xiang and 小璐 Xiaolu
 date: 2014-02-17
 tags: [剩女, 恐婚, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_081.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_081.mp3
 summary: ""
 duration: ""
 length: ""

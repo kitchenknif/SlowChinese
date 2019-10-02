@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2013-12-23
 tags: [电视, 锵锵三人行, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_073.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_073.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-05-23
 tags: [姓氏, 礼仪, 称呼, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_043.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_043.mp3
 summary: ""
 duration: ""
 length: ""

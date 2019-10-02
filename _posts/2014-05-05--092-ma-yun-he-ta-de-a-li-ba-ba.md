@@ -5,7 +5,7 @@ author: 海悦 Haiyue and 希茜 Xixi
 date: 2014-05-05
 tags: [淘宝, 阿里巴巴, 马云, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_092.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_092.mp3
 summary: ""
 duration: ""
 length: ""

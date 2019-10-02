@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-03-08
 tags: [台湾, 流行音乐, 邓丽君, ]
 categories: ["Pop Culture", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_037.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_037.mp3
 summary: ""
 duration: ""
 length: ""

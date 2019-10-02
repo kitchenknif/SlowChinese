@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2014-11-10
 tags: [共产党, 台湾, 国民党, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_117.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_117.mp3
 summary: ""
 duration: ""
 length: ""

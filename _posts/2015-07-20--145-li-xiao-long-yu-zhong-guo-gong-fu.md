@@ -5,7 +5,7 @@ author: 时溦 Shiwei and 小璐 Xiaolu
 date: 2015-07-20
 tags: [功夫, 李小龙, 电影, ]
 categories: ["Pop Culture", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_145.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_145.mp3
 summary: ""
 duration: ""
 length: ""

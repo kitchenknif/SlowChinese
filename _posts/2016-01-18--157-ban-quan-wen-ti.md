@@ -5,7 +5,7 @@ author: 沛竺 Peizhu and 艳君 Yanjun
 date: 2016-01-18
 tags: [微博, 法律, 版权, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_157.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_157.mp3
 summary: ""
 duration: ""
 length: ""

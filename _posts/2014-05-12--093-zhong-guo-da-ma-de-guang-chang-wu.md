@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2014-05-12
 tags: [广场舞, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_093.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_093.mp3
 summary: ""
 duration: ""
 length: ""

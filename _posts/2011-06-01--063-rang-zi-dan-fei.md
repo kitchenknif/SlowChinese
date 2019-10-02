@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2011-06-01
 tags: [姜文, 电影, 让子弹飞, ]
 categories: ["Pop Culture", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_063.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_063.mp3
 summary: ""
 duration: ""
 length: ""

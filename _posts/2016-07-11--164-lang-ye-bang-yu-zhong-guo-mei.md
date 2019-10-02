@@ -5,7 +5,7 @@ author: 沈妮 Daisy and 小璐 Xiaolu
 date: 2016-07-11
 tags: [琅琊榜, 电视剧, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_164.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_164.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2014-01-13
 tags: [吃饭, 早餐, 油条, 豆浆, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_076.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_076.mp3
 summary: ""
 duration: ""
 length: ""

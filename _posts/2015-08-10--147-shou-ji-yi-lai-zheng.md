@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2015-08-10
 tags: [微信, 手机, 社会问题, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_147.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_147.mp3
 summary: ""
 duration: ""
 length: ""

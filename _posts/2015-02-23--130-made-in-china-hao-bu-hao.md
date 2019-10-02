@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2015-02-23
 tags: [Made in China, 生产, 质量, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_130.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_130.mp3
 summary: ""
 duration: ""
 length: ""

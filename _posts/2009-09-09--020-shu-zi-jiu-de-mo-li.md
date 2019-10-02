@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-09-09
 tags: [九, 数字, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_020.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_020.mp3
 summary: ""
 duration: ""
 length: ""

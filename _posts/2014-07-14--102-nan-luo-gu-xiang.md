@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-07-14
 tags: [北京, 南锣鼓巷, 旅游, 胡同, ]
 categories: ["Backpack China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_102.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_102.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-02-24
 tags: [三毛, 作家, 文学, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_082.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_082.mp3
 summary: ""
 duration: ""
 length: ""

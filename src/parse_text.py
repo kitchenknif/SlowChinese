@@ -67,7 +67,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
 
             if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
                 outlines.append(
-                    "file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
+                    "file: //archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
                         episode_num))
                 outlines.append("summary: \"\"\n")
                 outlines.append("duration: \"\"\n")

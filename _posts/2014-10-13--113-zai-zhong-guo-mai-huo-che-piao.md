@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-10-13
 tags: [交通, 火车, ]
 categories: ["Backpack China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_113.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_113.mp3
 summary: ""
 duration: ""
 length: ""

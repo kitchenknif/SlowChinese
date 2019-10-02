@@ -5,7 +5,7 @@ author: 沛竺 Peizhu and 艳君 Yanjun
 date: 2017-04-03
 tags: [巧克力，情人节, 爱情, ]
 categories: ["Modern China", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_182.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_182.mp3
 summary: ""
 duration: ""
 length: ""

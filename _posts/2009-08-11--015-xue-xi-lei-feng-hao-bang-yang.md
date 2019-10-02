@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-08-11
 tags: [共产党, 雷锋, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_015.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_015.mp3
 summary: ""
 duration: ""
 length: ""

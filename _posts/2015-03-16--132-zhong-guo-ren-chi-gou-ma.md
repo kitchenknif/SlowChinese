@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2015-03-16
 tags: [吃饭, 狗, ]
 categories: ["History and Tradition", ]
-file: https://archive.org/embed/slowchinese_201909/Slow_Chinese_132.mp3
+file: //archive.org/embed/slowchinese_201909/Slow_Chinese_132.mp3
 summary: ""
 duration: ""
 length: ""
