@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-09-08
 tags: [星座, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_109.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_109.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-11-28
 tags: [教育, 法律, 高考, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_030.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_030.mp3
 summary: ""
 duration: ""
 length: ""

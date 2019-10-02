@@ -5,7 +5,7 @@ author: 独怡 Duyi and 希茜 Xixi
 date: 2017-06-12
 tags: [围棋, 少年, 阿尔法狗, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_189.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_189.mp3
 summary: ""
 duration: ""
 length: ""

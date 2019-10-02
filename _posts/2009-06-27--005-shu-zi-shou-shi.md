@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-06-27
 tags: [手势, 数字, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_005.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_005.mp3
 summary: ""
 duration: ""
 length: ""

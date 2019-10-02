@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2011-01-20
 tags: [书, 姓, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_057.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_057.mp3
 summary: ""
 duration: ""
 length: ""

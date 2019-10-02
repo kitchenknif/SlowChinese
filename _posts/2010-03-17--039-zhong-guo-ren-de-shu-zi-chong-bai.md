@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-03-17
 tags: [广东, 数字, 谐音, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_039.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_039.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2011-12-14
 tags: [交通, 浙江, 温州动车事故, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_066.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_066.mp3
 summary: ""
 duration: ""
 length: ""

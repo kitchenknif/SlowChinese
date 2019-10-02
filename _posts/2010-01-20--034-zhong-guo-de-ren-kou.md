@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-01-20
 tags: [人口, 独生子女, 老龄化, 计划生育, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_034.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_034.mp3
 summary: ""
 duration: ""
 length: ""

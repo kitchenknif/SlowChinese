@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2015-05-25
 tags: [王菲, 电影, 青春片, ]
 categories: ["Modern China", "Pop Culture", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_140.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_140.mp3
 summary: ""
 duration: ""
 length: ""

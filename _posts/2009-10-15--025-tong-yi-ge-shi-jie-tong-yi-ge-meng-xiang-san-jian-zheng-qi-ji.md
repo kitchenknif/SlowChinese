@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-10-15
 tags: [北京, 奥运会, 志愿者, 水立方, 鸟巢, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_025.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_025.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-08-07
 tags: [青岛, 青岛啤酒, ]
 categories: ["Backpack China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_051.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_051.mp3
 summary: ""
 duration: ""
 length: ""

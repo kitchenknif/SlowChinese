@@ -5,7 +5,7 @@ author: 项义凤 Tina Xiang and 小璐 Xiaolu
 date: 2014-03-17
 tags: [北京, 北漂, 年轻人, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_085.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_085.mp3
 summary: ""
 duration: ""
 length: ""

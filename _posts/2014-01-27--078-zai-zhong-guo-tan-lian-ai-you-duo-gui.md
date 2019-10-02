@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-01-27
 tags: [年轻人, 谈恋爱, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_078.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_078.mp3
 summary: ""
 duration: ""
 length: ""

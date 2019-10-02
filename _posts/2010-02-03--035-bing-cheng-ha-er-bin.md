@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-02-03
 tags: [东北, 哈尔滨, 黑龙江, ]
 categories: ["Backpack China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_035.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_035.mp3
 summary: ""
 duration: ""
 length: ""

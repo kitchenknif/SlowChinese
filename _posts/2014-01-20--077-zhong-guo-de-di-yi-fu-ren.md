@@ -5,7 +5,7 @@ author: 独怡 Duyi and 小璐 Xiaolu
 date: 2014-01-20
 tags: [彭丽媛, 第一夫人, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_077.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_077.mp3
 summary: ""
 duration: ""
 length: ""

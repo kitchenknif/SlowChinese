@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-06-24
 tags: [世界杯, 足球, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_046.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_046.mp3
 summary: ""
 duration: ""
 length: ""

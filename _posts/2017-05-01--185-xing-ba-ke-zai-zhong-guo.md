@@ -5,7 +5,7 @@ author: 沈妮 Daisy and 沛竺 Peizhu
 date: 2017-05-01
 tags: [咖啡, 星巴克, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_185.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_185.mp3
 summary: ""
 duration: ""
 length: ""

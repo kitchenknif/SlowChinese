@@ -5,7 +5,7 @@ author: 沛竺 Peizhu and 希茜 Xixi
 date: 2017-04-24
 tags: [中国菜, 中西差异, 食物, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_184.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_184.mp3
 summary: ""
 duration: ""
 length: ""

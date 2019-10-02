@@ -5,7 +5,7 @@ author: 希茜 Xixi and 艳君 Yanjun
 date: 2016-09-19
 tags: [年轻人, 旅行, 辞职, 间隔年, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_168.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_168.mp3
 summary: ""
 duration: ""
 length: ""

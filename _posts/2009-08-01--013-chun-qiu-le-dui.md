@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-08-01
 tags: [北京, 摇滚, 春秋乐队, 迷笛音乐节, ]
 categories: ["Pop Culture", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_013.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_013.mp3
 summary: ""
 duration: ""
 length: ""

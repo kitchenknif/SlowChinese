@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2014-10-20
 tags: [流行音乐, 王菲, 香港, ]
 categories: ["Pop Culture", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_114.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_114.mp3
 summary: ""
 duration: ""
 length: ""

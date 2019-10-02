@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2011-11-18
 tags: [流行音乐, 陈奕迅, ]
 categories: ["Pop Culture", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_064.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_064.mp3
 summary: ""
 duration: ""
 length: ""

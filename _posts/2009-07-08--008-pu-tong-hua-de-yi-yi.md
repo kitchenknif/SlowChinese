@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-07-08
 tags: [方言, 普通话, 法律, ]
 categories: ["Language", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_008.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_008.mp3
 summary: ""
 duration: ""
 length: ""

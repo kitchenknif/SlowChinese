@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2015-01-26
 tags: [吃饭, 请客, 面子, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_126.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_126.mp3
 summary: ""
 duration: ""
 length: ""

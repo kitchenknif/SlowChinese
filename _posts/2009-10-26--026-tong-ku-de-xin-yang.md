@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-10-26
 tags: [798, 摇滚, 痛苦的信仰, 迷笛音乐节, ]
 categories: ["Pop Culture", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_026.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_026.mp3
 summary: ""
 duration: ""
 length: ""

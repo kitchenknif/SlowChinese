@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2014-08-18
 tags: [少数民族, 法律, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_106.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_106.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-06-27
 tags: [QQ, 上网, 聊天, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_002.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_002.mp3
 summary: ""
 duration: ""
 length: ""

@@ -5,7 +5,7 @@ author: 沈妮 Daisy and 希茜 Xixi
 date: 2017-03-27
 tags: [城市, 旅行, 香港, ]
 categories: ["Backpack China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_181.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_181.mp3
 summary: ""
 duration: ""
 length: ""

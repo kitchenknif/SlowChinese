@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-11-13
 tags: [台州, 吃饭, 浙江, 经济, ]
 categories: ["Backpack China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_054.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_054.mp3
 summary: ""
 duration: ""
 length: ""

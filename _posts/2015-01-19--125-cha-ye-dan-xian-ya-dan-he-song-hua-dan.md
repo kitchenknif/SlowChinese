@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2015-01-19
 tags: [吃饭, 咸鸭蛋, 松花蛋, 茶叶蛋, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_125.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_125.mp3
 summary: ""
 duration: ""
 length: ""

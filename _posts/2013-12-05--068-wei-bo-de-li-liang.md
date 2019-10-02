@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2013-12-05
 tags: [上网, 微博, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_068.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_068.mp3
 summary: ""
 duration: ""
 length: ""

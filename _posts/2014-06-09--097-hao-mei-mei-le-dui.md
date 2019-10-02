@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2014-06-09
 tags: [好妹妹乐队, 民谣, ]
 categories: ["Pop Culture", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_097.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_097.mp3
 summary: ""
 duration: ""
 length: ""

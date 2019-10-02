@@ -5,7 +5,7 @@ author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-06-08
 tags: [教育, 高考, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_141.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_141.mp3
 summary: ""
 duration: ""
 length: ""

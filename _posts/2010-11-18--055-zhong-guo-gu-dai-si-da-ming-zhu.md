@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2010-11-18
 tags: [历史, 四大名著, 文学, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_055.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_055.mp3
 summary: ""
 duration: ""
 length: ""

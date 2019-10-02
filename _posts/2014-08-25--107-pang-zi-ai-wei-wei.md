@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2014-08-25
 tags: [艺术, 艾未未, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_107.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_107.mp3
 summary: ""
 duration: ""
 length: ""

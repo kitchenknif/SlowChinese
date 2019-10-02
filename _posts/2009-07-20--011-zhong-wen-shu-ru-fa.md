@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-07-20
 tags: [上网, 拼音, 聊天, 输入法, ]
 categories: ["Language", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_011.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_011.mp3
 summary: ""
 duration: ""
 length: ""

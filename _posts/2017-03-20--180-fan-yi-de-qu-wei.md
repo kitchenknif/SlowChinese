@@ -5,7 +5,7 @@ author: 沛竺 Peizhu and 希茜 Xixi
 date: 2017-03-20
 tags: [中文, 汉语, 翻译, 趣味, ]
 categories: ["Language", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_180.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_180.mp3
 summary: ""
 duration: ""
 length: ""

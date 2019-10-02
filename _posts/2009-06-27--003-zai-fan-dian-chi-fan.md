@@ -5,7 +5,7 @@ author: 昕煜 Xinyu
 date: 2009-06-27
 tags: [中餐, 吃饭, 筷子, 饭店, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_003.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_003.mp3
 summary: ""
 duration: ""
 length: ""

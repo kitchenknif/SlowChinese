@@ -5,7 +5,7 @@ author: 独怡 Duyi and 希茜 Xixi
 date: 2017-01-30
 tags: [北京, 婚房, 房价, 炒房, 限购令, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_177.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_177.mp3
 summary: ""
 duration: ""
 length: ""

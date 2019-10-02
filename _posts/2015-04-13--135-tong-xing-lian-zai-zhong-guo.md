@@ -5,7 +5,7 @@ author: 独怡 Duyi and 小璐 Xiaolu
 date: 2015-04-13
 tags: [同志, 同性恋, 结婚, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_135.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_135.mp3
 summary: ""
 duration: ""
 length: ""

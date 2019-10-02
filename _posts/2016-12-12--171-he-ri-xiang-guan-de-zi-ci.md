@@ -5,7 +5,7 @@ author: 沛竺 Peizhu and 艳君 Yanjun
 date: 2016-12-12
 tags: [日, 汉字, ]
 categories: ["Language", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_171.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_171.mp3
 summary: ""
 duration: ""
 length: ""

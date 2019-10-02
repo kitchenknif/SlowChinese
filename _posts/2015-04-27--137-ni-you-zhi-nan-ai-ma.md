@@ -5,7 +5,7 @@ author: 希茜 Xixi
 date: 2015-04-27
 tags: [流行词, 直男癌, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_137.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_137.mp3
 summary: ""
 duration: ""
 length: ""

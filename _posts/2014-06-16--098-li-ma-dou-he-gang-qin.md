@@ -5,7 +5,7 @@ author: 独怡 Duyi and 小璐 Xiaolu
 date: 2014-06-16
 tags: [利玛窦, 钢琴, ]
 categories: ["History and Tradition", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_098.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_098.mp3
 summary: ""
 duration: ""
 length: ""

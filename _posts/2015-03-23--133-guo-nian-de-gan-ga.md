@@ -5,7 +5,7 @@ author: 希茜 Xixi and 艳君 Yanjun
 date: 2015-03-23
 tags: [拜年, 礼仪, 过年, ]
 categories: ["Modern China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_133.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_133.mp3
 summary: ""
 duration: ""
 length: ""

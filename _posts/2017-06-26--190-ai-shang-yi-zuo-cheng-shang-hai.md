@@ -5,7 +5,7 @@ author: 沈妮 Daisy and 希茜 Xixi
 date: 2017-06-26
 tags: [上海, 城市, 美食, 都市, ]
 categories: ["Backpack China", ]
-file: //archive.org/embed/slowchinese_201909/Slow_Chinese_190.mp3
+file: //archive.org/download/slowchinese_201909/Slow_Chinese_190.mp3
 summary: ""
 duration: ""
 length: ""
