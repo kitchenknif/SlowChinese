@@ -3,11 +3,12 @@ layout: post
 title: 180 - 翻译的趣味
 author: 沛竺 Peizhu and 希茜 Xixi
 date: 2017-03-20
+tags: [中文, 汉语, 翻译, 趣味, ]
+categories: ["Language", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_180.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-Slow Chinese #180: 翻译的趣味
 作为一个中文学习者，你或许跟我一样，对很多词的翻译很感兴趣。今天我想跟大家聊聊一些英文词的中文翻译。
 翻译的第一种方法被称为“音译”，也就是根据英文的读音，用与它相似的中文来翻译。比如，我们把coffee翻译成“咖啡”，把sofa翻译成“沙发”， 把microphone翻译成“麦克风”。这种翻译方法比较直接、方便，但问题是：这些中文字失去了本来的意思。比如，“沙”和“发”两个字的意思和“沙发”这个词其实一点儿关系都没有。
 第二种方法被称为“意译”，也就是说，不管英文的读音，只是根据意思来翻译。比如，computer被翻译成“电脑”，意思是需要用电的大脑 。cellphone被称为“手机”，意思是拿在手上的机器。这种翻译方法让人很容易理解词语的意思，但是，英文原词和中文之间的关系就被破坏了。

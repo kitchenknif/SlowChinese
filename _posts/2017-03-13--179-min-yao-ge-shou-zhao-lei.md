@@ -3,6 +3,8 @@ layout: post
 title: 179 - 民谣歌手赵雷
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2017-03-13
+tags: [歌手, 民谣, 赵雷, 音乐, ]
+categories: ["Pop Culture", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_179.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

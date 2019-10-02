@@ -3,6 +3,8 @@ layout: post
 title: 132 - 中国人吃狗吗
 author: 昕煜 Xinyu
 date: 2015-03-16
+tags: [吃饭, 狗, ]
+categories: ["History and Tradition", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_132.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

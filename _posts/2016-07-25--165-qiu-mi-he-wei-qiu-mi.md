@@ -3,6 +3,8 @@ layout: post
 title: 165 - 球迷和伪球迷
 author: 艳君 Yanjun and 沛竺 Peizhu
 date: 2016-07-25
+tags: [伪球迷, 体育, 球迷, 足球, ]
+categories: ["Modern China", ]
 ---
 
 

@@ -3,6 +3,8 @@ layout: post
 title: 167 - 中国孕妇的传统生活禁忌
 author: 沛竺 Peizhu
 date: 2016-08-29
+tags: [上火, 坐月子, 防辐射服, ]
+categories: ["History and Tradition", "Modern China", ]
 ---
 
 

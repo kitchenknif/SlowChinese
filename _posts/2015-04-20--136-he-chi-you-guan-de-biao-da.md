@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 136 - 和“吃”有关的表达
-author: 艳君 Yanjun and 小璐 Xiaolu
+author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-04-20
+tags: [吃饭, ]
+categories: ["Language", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_136.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

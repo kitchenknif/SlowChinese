@@ -3,6 +3,8 @@ layout: post
 title: 163 - 疫苗事件
 author: 独怡 Duyi and 沛竺 Peizhu
 date: 2016-07-04
+tags: [疫苗, 社会问题, 网络, ]
+categories: ["Modern China", ]
 ---
 
 

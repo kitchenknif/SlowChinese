@@ -3,6 +3,8 @@ layout: post
 title: 124 - 中国人的红与白
 author: 独怡 Duyi and 希茜 Xixi
 date: 2015-01-12
+tags: [结婚, 节日, ]
+categories: ["History and Tradition", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_124.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

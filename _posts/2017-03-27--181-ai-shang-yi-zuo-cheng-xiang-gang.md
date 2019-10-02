@@ -3,6 +3,8 @@ layout: post
 title:  181 - 爱上一座城——香港
 author: 沈妮 Daisy and 希茜 Xixi
 date: 2017-03-27
+tags: [城市, 旅行, 香港, ]
+categories: ["Backpack China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_181.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

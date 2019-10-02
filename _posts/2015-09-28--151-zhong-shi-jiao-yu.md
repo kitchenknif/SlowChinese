@@ -3,6 +3,8 @@ layout: post
 title: 151 - 中式教育
 author: 希茜 Xixi
 date: 2015-09-28
+tags: [教育, 纪录片, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_151.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

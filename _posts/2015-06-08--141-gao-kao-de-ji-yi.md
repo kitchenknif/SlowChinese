@@ -3,6 +3,8 @@ layout: post
 title: 141 - 高考的记忆
 author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-06-08
+tags: [教育, 高考, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_141.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

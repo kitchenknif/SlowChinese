@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 157 - 版权问题
-author: 艳君 Yanjun and 沛竺 Peizhu
+author: 沛竺 Peizhu and 艳君 Yanjun
 date: 2016-01-18
+tags: [微博, 法律, 版权, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_157.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

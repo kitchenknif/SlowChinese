@@ -3,6 +3,8 @@ layout: post
 title: 176 - 北京的房价（一）
 author: 独怡 Duyi and 希茜 Xixi
 date: 2017-01-23
+tags: [北京, 房价, 房子, 涨价, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_176.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

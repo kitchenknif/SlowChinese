@@ -3,6 +3,8 @@ layout: post
 title: 137 - 你有直男癌吗？
 author: 希茜 Xixi
 date: 2015-04-27
+tags: [流行词, 直男癌, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_137.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

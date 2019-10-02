@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 134 - 你是文青吗？
-author: 艳君 Yanjun and 小璐 Xiaolu
+author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-04-06
+tags: [上网, 年轻人, 文青, 网络, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_134.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

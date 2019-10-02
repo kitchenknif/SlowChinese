@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 146 - 留守儿童
-author: 艳君 Yanjun and 小璐 Xiaolu
+author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-07-27
+tags: [农民工, 留守儿童, 陪伴, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_146.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

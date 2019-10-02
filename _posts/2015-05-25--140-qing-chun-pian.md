@@ -3,6 +3,8 @@ layout: post
 title: 140 - 青春片
 author: 希茜 Xixi
 date: 2015-05-25
+tags: [王菲, 电影, 青春片, ]
+categories: ["Modern China", "Pop Culture", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_140.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

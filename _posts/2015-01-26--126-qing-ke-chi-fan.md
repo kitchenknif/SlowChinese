@@ -3,6 +3,8 @@ layout: post
 title: 126 - 请客吃饭
 author: 希茜 Xixi
 date: 2015-01-26
+tags: [吃饭, 请客, 面子, ]
+categories: ["History and Tradition", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_126.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: 197 - 出轨和出柜
 author: Yanjun and Xixi
 date: 2017-12-22
+tags: [出柜, 出轨, 声调, ]
+categories: ["Language", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_197.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 168 - 中国年轻人的职业“间隔年”
-author: 艳君 Yanjun and 希茜 Xixi
+author: 希茜 Xixi and 艳君 Yanjun
 date: 2016-09-19
+tags: [年轻人, 旅行, 辞职, 间隔年, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_168.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

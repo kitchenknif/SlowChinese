@@ -3,6 +3,8 @@ layout: post
 title: 123 - 网络神曲
 author: 昕煜 Xinyu
 date: 2015-01-05
+tags: [小苹果, 神曲, 网络, ]
+categories: ["Pop Culture", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_123.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: 3 - 在饭店吃饭
 author: 昕煜 Xinyu
 date: 2009-06-27
+tags: [中餐, 吃饭, 筷子, 饭店, ]
+categories: ["History and Tradition", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_003.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: 174 - 在中国当老师
 author: 沈妮 Daisy and 小璐 Xiaolu
 date: 2017-01-09
+tags: [儒学, 老师, ]
+categories: ["History and Tradition", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_174.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: 162 - 北京的四合院
 author: 沈妮 Daisy and 小璐 Xiaolu
 date: 2016-06-06
+tags: [北京, 四合院, 建筑, 胡同, ]
+categories: ["History and Tradition", ]
 ---
 
 

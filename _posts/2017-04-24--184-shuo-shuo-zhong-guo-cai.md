@@ -3,6 +3,8 @@ layout: post
 title: 184 - 说说中国菜
 author: 沛竺 Peizhu and 希茜 Xixi
 date: 2017-04-24
+tags: [中国菜, 中西差异, 食物, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_184.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

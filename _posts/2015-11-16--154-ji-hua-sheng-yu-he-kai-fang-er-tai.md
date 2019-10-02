@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 154 计划生育和开放二胎
-author: 艳君 Yanjun and 小璐 Xiaolu
+author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-11-16
+tags: [二胎, 法律, 计划生育, ]
+categories: ["History and Tradition", "Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_154.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

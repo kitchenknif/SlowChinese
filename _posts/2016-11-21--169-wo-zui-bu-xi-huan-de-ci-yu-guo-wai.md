@@ -3,6 +3,8 @@ layout: post
 title: 169 - 我最不喜欢的词语——“国外”
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2016-11-21
+tags: [国外, 污染, 环境, ]
+categories: ["Language", "Modern China", ]
 ---
 
 

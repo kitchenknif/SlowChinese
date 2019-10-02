@@ -3,6 +3,8 @@ layout: post
 title: 188 - 东西的由来
 author: 沛竺 Peizhu
 date: 2017-06-05
+tags: [历史, 文字, 甲骨文, ]
+categories: ["Language", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_188.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

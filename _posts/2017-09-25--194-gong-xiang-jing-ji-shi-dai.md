@@ -3,6 +3,8 @@ layout: post
 title: 194 共享经济时代
 author: 沛竺 Peizhu
 date: 2017-09-25
+tags: [共享, 共享单车, 共享经济, 滴滴打车, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_194.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

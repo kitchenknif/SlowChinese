@@ -3,6 +3,8 @@ layout: post
 title: 145 - 李小龙与中国功夫
 author: 时溦 Shiwei and 小璐 Xiaolu
 date: 2015-07-20
+tags: [功夫, 李小龙, 电影, ]
+categories: ["Pop Culture", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_145.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

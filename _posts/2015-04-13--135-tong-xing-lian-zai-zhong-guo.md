@@ -3,6 +3,8 @@ layout: post
 title: 135 - 同性恋在中国
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2015-04-13
+tags: [同志, 同性恋, 结婚, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_135.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -3,6 +3,8 @@ layout: post
 title: 159 - 猴年说猴
 author: 沛竺 Peizhu
 date: 2016-04-18
+tags: [文学, 春节, 生肖, 西游记, ]
+categories: ["History and Tradition", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_159.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

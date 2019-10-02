@@ -3,6 +3,8 @@ layout: post
 title: 130 - Made in China好不好
 author: 昕煜 Xinyu
 date: 2015-02-23
+tags: [Made in China, 生产, 质量, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_130.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

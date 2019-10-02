@@ -3,6 +3,8 @@ layout: post
 title: 185 - 星巴克在中国
 author: 沈妮 Daisy and 沛竺 Peizhu
 date: 2017-05-01
+tags: [咖啡, 星巴克, ]
+categories: ["Modern China", ]
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_185.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
