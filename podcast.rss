@@ -28,9 +28,12 @@
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/assets/img/album_cover.jpg" />
-		<itunes:category text="Language" />
-		<itunes:category text="Chinese" />
-		<itunes:category text="China" />
+		<itunes:category text="Education">
+			<itunes:category text="Language Courses" />
+		</itunes:category>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="History" />
+		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
