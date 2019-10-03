@@ -12,25 +12,25 @@ We are a team of enthusiastic people and are devoted ourselves to revealing the 
 
 Original Authors
 ---
-<img src="/assets/img/xinyu.jpg" width="50" style="border-radius: 50%;" />昕煜 - Xinyu - Founder, Author
+<img src="{{ site.github.url }}/assets/img/xinyu.jpg" width="50" style="border-radius: 50%;" />昕煜 - Xinyu - Founder, Author
 
-<img src="/assets/img/haiyue.jpg" width="50" style="border-radius: 50%;" />海悦 - Haiyue - Chief Editor
+<img src="{{ site.github.url }}/assets/img/haiyue.jpg" width="50" style="border-radius: 50%;" />海悦 - Haiyue - Chief Editor
 
-<img src="/assets/img/xixi.jpg" width="50" style="border-radius: 50%;" />希茜 - Xixi - Author
+<img src="{{ site.github.url }}/assets/img/xixi.jpg" width="50" style="border-radius: 50%;" />希茜 - Xixi - Author
 
-<img src="/assets/img/xiaolu.jpg" width="50" style="border-radius: 50%;" />小璐 - Xiaolu - Host
+<img src="{{ site.github.url }}/assets/img/xiaolu.jpg" width="50" style="border-radius: 50%;" />小璐 - Xiaolu - Host
 
-<img src="/assets/img/shiwei.jpg" width="50" style="border-radius: 50%;" />时溦 - Shiwei - Editor
+<img src="{{ site.github.url }}/assets/img/shiwei.jpg" width="50" style="border-radius: 50%;" />时溦 - Shiwei - Editor
 
-<img src="/assets/img/duyi.jpg" width="50" style="border-radius: 50%;" />独怡 - Duyi - Author
+<img src="{{ site.github.url }}/assets/img/duyi.jpg" width="50" style="border-radius: 50%;" />独怡 - Duyi - Author
 
-<img src="/assets/img/yanjun.jpg" width="50" style="border-radius: 50%;" />艳君 - Yanjun - Teacher
+<img src="{{ site.github.url }}/assets/img/yanjun.jpg" width="50" style="border-radius: 50%;" />艳君 - Yanjun - Teacher
 
-<img src="/assets/img/daisy.jpg" width="50" style="border-radius: 50%;" />沈妮 - Daisy - Teacher
+<img src="{{ site.github.url }}/assets/img/daisy.jpg" width="50" style="border-radius: 50%;" />沈妮 - Daisy - Teacher
 
-<img src="/assets/img/peizhu.jpg" width="50" style="border-radius: 50%;" />沛竺 - Peizhu - Teacher
+<img src="{{ site.github.url }}/assets/img/peizhu.jpg" width="50" style="border-radius: 50%;" />沛竺 - Peizhu - Teacher
 
-<img src="/assets/img/tina.jpg" width="50" style="border-radius: 50%;" />丁楠 - Tina - Project Manager
+<img src="{{ site.github.url }}/assets/img/tina.jpg" width="50" style="border-radius: 50%;" />丁楠 - Tina - Project Manager
 
 Licensing 
 ---
