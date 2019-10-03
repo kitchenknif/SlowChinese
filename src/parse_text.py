@@ -1,8 +1,10 @@
 import os
 import regex as re
+import datetime
 
 import bs4
 from bs4 import BeautifulSoup
+import eyed3
 
 from xpinyin import Pinyin
 p = Pinyin()
@@ -25,7 +27,10 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             if "中文天天读" in soup.head.title.get_text() or "podcast Archives" in soup.head.title.get_text():
                 break
 
-            outlines = []
+            #
+            # Parse HTML
+            #
+
             #print(soup.title.string)
             fnametitle = soup.article.h1.a.get_text().replace(":", "-").replace("#", "").replace(" ", "-")
             title = soup.article.h1.a.get_text().replace(":", " -").replace("#", "")
@@ -48,8 +53,24 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             raw_cat = soup.article.find("span", "meta_category")
             categories = [tag.get_text() for tag in raw_cat.find_all("a")]
 
+            transcript = []
+            if len(soup.article.find_all("div", id="-0")) == 0:
+                start_text = soup.article.find_all("p", "powerpress_embed_box")[-1].next_sibling
+                while(start_text.name == "p" or start_text == "\n"):
+                    if isinstance(start_text, bs4.Tag):
+                        transcript.append(start_text.get_text())
+                    elif isinstance(start_text, bs4.NavigableString):
+                        transcript.append("\n")
 
+                    start_text = start_text.next_sibling
+            else:
+                transcript.append(soup.article.find_all("div", id="-0")[0].get_text())
 
+            #
+            # Write Markdown post
+            #
+
+            outlines = []
             outlines.append("---\n")
             outlines.append("layout: post\n")
             outlines.append("title: "+title+"\n")
@@ -65,13 +86,17 @@ for dirpath, dnames, fnames in os.walk(workingdir):
                 outlines.append("\"" + tag + "\", ")
             outlines.append("]\n")
 
-            if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
+            localaudiofname = os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))
+            if os.path.exists(localaudiofname):
+
+                audiosize = os.path.getsize(localaudiofname)
+                audiolength = datetime.timedelta(seconds=eyed3.load(localaudiofname).info.time_secs)
                 outlines.append(
                     "file: //archive.org/download/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
                         episode_num))
-                outlines.append("summary: \"\"\n")
-                outlines.append("duration: \"\"\n")
-                outlines.append("length: \"\"\n")
+                outlines.append("summary: \"{}\"\n".format("".join(transcript)))
+                outlines.append("duration: \"{}\"\n".format(audiolength))
+                outlines.append("length: \"{}\"\n".format(audiosize))
 
             # # image: cutting.jpg
             outlines.append("---\n\n")
@@ -80,27 +105,11 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             #
             # Audio Embed
             #
-            if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
-                audiofname = "https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3".format(episode_num)
+            if os.path.exists(localaudiofname):
                 embed = "<iframe src=\"https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\" width=\"500\" height=\"30\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen></iframe>\n"
                 embed = embed.format(episode_num)
                 outlines.append(embed)
 
-
-
-
-            transcript = []
-            if len(soup.article.find_all("div", id="-0")) == 0:
-                start_text = soup.article.find_all("p", "powerpress_embed_box")[-1].next_sibling
-                while(start_text.name == "p" or start_text == "\n"):
-                    if isinstance(start_text, bs4.Tag):
-                        transcript.append(start_text.get_text())
-                    elif isinstance(start_text, bs4.NavigableString):
-                        transcript.append("\n")
-
-                    start_text = start_text.next_sibling
-            else:
-                transcript.append(soup.article.find_all("div", id="-0")[0].get_text())
 
         with open(os.path.join(targetdir, date + "--" + outfname), "w") as f_out:
             f_out.writelines(outlines)

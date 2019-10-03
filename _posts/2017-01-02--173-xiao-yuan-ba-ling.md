@@ -6,9 +6,15 @@ date: 2017-01-02
 tags: [心理健康, 欺凌, 霸凌, ]
 categories: ["Modern China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_173.mp3
-summary: ""
-duration: ""
-length: ""
+summary: "
+2016年12月，北京中关村二小的一位学生家长在网络上发布了一篇文章，提到自己的孩子遭遇校园霸凌，事后出现了入睡困难、易怒、极度需要陪伴和情绪激动等症状。家长在文中质疑学校对这件事情处理不当。
+这几乎是“校园霸凌”第一次如此大面积地进入公众视野。在此之前，中文网络上更常用的词语是：校园暴力、校园欺凌。霸凌，是直接从英文“bullying”音译过来的。
+很多家长都非常关注这件事情。网上也有不少人回忆了自己年少时遭遇校园霸凌的经历。校园霸凌一直存在，只是过去被大家忽略了。很多家长或老师觉得：学生之间只是闹着玩的。又或者：孩子不懂事，长大了就好了。
+随着心理健康知识的普及，越来越多的人意识到校园霸凌的严重性。正视它的存在只是第一步，如何更好地解决这个问题，无论是学校、老师还是家长都有很长的路要走。
+注：文中提到的文章是《每对母子都是生死之交，我要陪他向校园霸凌说NO！》。
+"
+duration: "0:03:24.597145"
+length: "3688720"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_173.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

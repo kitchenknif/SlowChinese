@@ -81,11 +81,16 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                 outlines.append("categories: []\n")
                 outlines.append("tags: []\n")
 
-                if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
-                    outlines.append("file: //archive.org/download/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(episode_num))
+                localaudiofname = os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))
+                if os.path.exists(localaudiofname):
+                    audiosize = os.path.getsize(localaudiofname)
+                    audiolength = datetime.timedelta(seconds=eyed3.load(localaudiofname).info.time_secs)
+                    outlines.append(
+                        "file: //archive.org/download/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
+                            episode_num))
                     outlines.append("summary: \"\"\n")
-                    outlines.append("duration: \"\"\n")
-                    outlines.append("length: \"\"\n")
+                    outlines.append("duration: \"{}\"\n".format(audiolength))
+                    outlines.append("length: \"{}\"\n".format(audiosize))
 
                 outlines.append("---\n\n")
                 #
@@ -93,7 +98,7 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                 #
                 # Audio Embed
                 #
-                if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
+                if os.path.exists(localaudiofname):
                     embed = "<iframe src=\"https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\" width=\"500\" height=\"30\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen></iframe>\n"
                     embed = embed.format(episode_num)
                     outlines.append(embed)

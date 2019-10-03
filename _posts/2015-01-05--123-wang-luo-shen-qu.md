@@ -6,9 +6,13 @@ date: 2015-01-05
 tags: [小苹果, 神曲, 网络, ]
 categories: ["Pop Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_123.mp3
-summary: ""
-duration: ""
-length: ""
+summary: "
+互联网让每个人都可以向世界展示自己、分享自己的作品。于是，就出现了“网络神曲”。《神曲》其实是意大利诗人但丁的作品。但是，我们今天说的“网络神曲”，字面上的意思就是：通过网络传播的“奇特”的歌曲……
+要说2014年最火的网络神曲，排第一的，肯定就是《小苹果》了。这是筷子兄弟的一首电子舞曲，来自他们最近的一部电影。这首歌曲跟几年前非常火的韩国舞曲《Gangnam Style》非常相似，旋律也很简单。你听完之后，脑子里会一直重播它的旋律。《小苹果》的团队也做了病毒式营销，他们在很多网站上发布这首歌，也邀请了很多明星去模仿这首歌的舞蹈。这样的网络神曲，最喜欢的肯定是中国的广场舞大妈了。所以，突然之间，大街小巷都在放《小苹果》。很多人像我一样，完全不能欣赏这首歌，但是也不得不承认，脑子里再也无法忘记这个旋律。
+如果你还想听听其他的网络神曲，我还可以推荐给大家几首歌，比如：王蓉的《小鸡小鸡》，这首歌和《What Does The Fox Say?》有的一拼。我之前给大家介绍过好妹妹乐队，他们最近也受不了网络神曲的热潮，也创作了一首歌，叫做《蛇精病不会动》，专门用来讽刺那些整过容、爱自拍的女孩子，大家快去听一听，洗洗脑吧。
+"
+duration: "0:02:49.487790"
+length: "4493277"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_123.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
