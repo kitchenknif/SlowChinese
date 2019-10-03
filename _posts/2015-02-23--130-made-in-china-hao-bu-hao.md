@@ -4,7 +4,7 @@ title: 130 - Made in China好不好
 author: 昕煜 Xinyu
 date: 2015-02-23
 tags: [Made in China, 生产, 质量, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_130.mp3
 summary: "
 大家好，今天我们来说一说中国制造，Made in China。Made in China的产品随处可见，但是它的质量却一直受到人们的质疑。那Made in China到底好不好？它为什么会变成今天这个样子？

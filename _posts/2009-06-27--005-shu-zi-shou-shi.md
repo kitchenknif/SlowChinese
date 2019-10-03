@@ -4,7 +4,7 @@ title: 5 - 数字手势
 author: 昕煜 Xinyu
 date: 2009-06-27
 tags: [手势, 数字, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_005.mp3
 summary: "中国的数字手势和其他国家的不一样，中国人数数的时候，手就是字。我的朋友张孜帮我拍了下面的一组照片，通过这些照片，我告诉你中国人怎么用手指数数。对了，首先要弄清楚，每根手指的名字。从最粗的手指开始，五根手指分别叫做：大拇指、食指、中指、无名指和小拇指，小拇指也叫小指。
 一、握拳，竖起食指就是“一”。

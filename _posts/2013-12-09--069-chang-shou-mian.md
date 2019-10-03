@@ -4,7 +4,7 @@ title: 69 - 长寿面
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2013-12-09
 tags: [吃饭, 生日, 长寿面, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_069.mp3
 summary: "生日是人生中非常重要的时刻。以前，中国人不吃生日蛋糕，而是吃一碗“长寿面”。因为面条又“长”又“瘦”，和“长寿”发音一样，所以就叫做“长寿面”，意思是希望过生日的人能够长命百岁。
 中国人一般会在长寿面中加一个鸡蛋，因为鸡蛋是圆的，象征着“圆满”。也有人说，鸡蛋象征着生命。在不同的地方，做长寿面的具体方法也都不一样。长寿面和普通的面条不太一样，一般比较长。吃长寿面的时候，要一口气吃掉整根面条。在把面条放进嘴里之前，不能咬断长寿面。

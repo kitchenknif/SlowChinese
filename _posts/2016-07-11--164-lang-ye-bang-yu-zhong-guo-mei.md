@@ -4,7 +4,7 @@ title: 164 - 《琅琊榜》与中国美
 author: 沈妮 Daisy and 小璐 Xiaolu
 date: 2016-07-11
 tags: [琅琊榜, 电视剧, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_164.mp3
 summary: "
 前一段时间，一部古装剧《琅琊榜》红遍了中国的大江南北。不管是网络还是报纸，处处可见人们对这部电视剧的热捧。很多人每晚都守着电视或电脑观看最新的一集，甚至有很多网友把它称之为近年来中国电视剧的“良心之作”。

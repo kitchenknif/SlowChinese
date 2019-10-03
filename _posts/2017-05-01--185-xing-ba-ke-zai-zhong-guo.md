@@ -4,7 +4,7 @@ title: 185 - 星巴克在中国
 author: 沈妮 Daisy and 沛竺 Peizhu
 date: 2017-05-01
 tags: [咖啡, 星巴克, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_185.mp3
 summary: "
 作为世界著名的咖啡连锁店，星巴克已经成为了中国年轻人喝咖啡的首选。无论是北京、上海、广州这样的大城市，还是一些比较偏远的小城市，你都能喝到这杯印有绿色美人鱼标志的星巴克咖啡。很多人还会戏称它为“星爸爸”。

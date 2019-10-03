@@ -4,7 +4,7 @@ title: 126 - 请客吃饭
 author: 希茜 Xixi
 date: 2015-01-26
 tags: [吃饭, 请客, 面子, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_126.mp3
 summary: "
 一个中国朋友说，她最近认识了一个美国男生，他们在一起吃了好几次饭，但每次都是AA制。她觉得这个美国男生太小气了，从来不主动买单。我听了哈哈大笑，告诉她请客吃饭这件事在中西方的文化中是有差异的。

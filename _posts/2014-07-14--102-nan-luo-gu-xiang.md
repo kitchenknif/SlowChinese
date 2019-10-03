@@ -4,7 +4,7 @@ title: 102 - 南锣鼓巷
 author: 希茜 Xixi
 date: 2014-07-14
 tags: [北京, 南锣鼓巷, 旅游, 胡同, ]
-categories: ["Backpack China", ]
+categories: ["Backpack-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_102.mp3
 summary: "南锣鼓巷是中国唯一保存完整的胡同，也是北京最古老的街区之一。巷子宽8米，全长787米，建于元朝，距离现在已经有700多年的历史。今天，我就带领大家到这里逛一逛。
 南锣鼓巷位于北京市东城区。因为地势中间高，南北低，像一个驼背的人，所以最初人们给它起名叫罗锅巷。罗锅，就是驼背的意思。到了清朝乾隆皇帝时期，在当时绘制的北京全城地图上，罗锅巷就被改名为南锣鼓巷。

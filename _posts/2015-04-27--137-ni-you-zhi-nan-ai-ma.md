@@ -4,7 +4,7 @@ title: 137 - 你有直男癌吗？
 author: 希茜 Xixi
 date: 2015-04-27
 tags: [流行词, 直男癌, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_137.mp3
 summary: "
 前几天一个英国朋友对我说，他在一本杂志上看到一篇关于中国“直男癌”这个词的文章，觉得很有趣，今天我就给大家介绍一下，“直男癌”究竟是什么意思。

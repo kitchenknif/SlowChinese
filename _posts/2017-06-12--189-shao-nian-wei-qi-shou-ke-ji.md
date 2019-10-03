@@ -4,7 +4,7 @@ title: 189 - 少年围棋手柯洁
 author: 独怡 Duyi and 希茜 Xixi
 date: 2017-06-12
 tags: [围棋, 少年, 阿尔法狗, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_189.mp3
 summary: "
 2017年5月23至27日，一场在中国浙江省乌镇举行的围棋“人机大战”，引发了人们的关注。“人机大战”就是指人和机器之间的比赛。这次的“人机大战”是谷歌的人工智能阿尔法狗（AlphaGo）与中国棋手之间的对战。5月27日，比赛结束了。经过了三局比赛，世界排名第一的围棋手柯洁以0:3输给了阿尔法狗。比赛结束后，这位19岁的围棋天才在采访时哭了。今天我们就来说一说围棋手柯洁。

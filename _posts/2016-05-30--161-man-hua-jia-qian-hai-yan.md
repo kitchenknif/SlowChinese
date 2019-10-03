@@ -4,7 +4,7 @@ title: 161 - 漫画家钱海燕
 author: 艳君 Yanjun and 沛竺 Peizhu
 date: 2016-05-30
 tags: [文学, 漫画, 钱海燕, ]
-categories: ["Pop Culture", ]
+categories: ["Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_161.mp3
 summary: "
 今天跟大家介绍一个我非常喜欢的中国现代漫画家，她叫钱海燕。

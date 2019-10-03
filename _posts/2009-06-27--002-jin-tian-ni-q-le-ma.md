@@ -4,7 +4,7 @@ title: 2 - 今天，你Q了吗？
 author: 昕煜 Xinyu
 date: 2009-06-27
 tags: [QQ, 上网, 聊天, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_002.mp3
 summary: "
 中国人喜欢在网上聊天，现在最流行的聊天软件叫做QQ。它的标志是一只胖乎乎的企鹅。几乎每个人都有QQ账户。

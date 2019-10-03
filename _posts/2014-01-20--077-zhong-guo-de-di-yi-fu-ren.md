@@ -4,7 +4,7 @@ title: 77 - 中国的“第一夫人”
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2014-01-20
 tags: [彭丽媛, 第一夫人, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_077.mp3
 summary: "今天，我要给大家介绍一位名人。许多人可能已经在电视或者报纸上见到过她，她就是中国现在的“第一夫人”——彭丽媛。“第一夫人”这个词，来源于英语的First Lady，指的是国家元首的夫人。
 彭丽媛出生在山东的一个小村庄。在成为“第一夫人”之前，她在中国就非常有名。彭丽媛曾经是中国最有名的民歌歌手。每年过春节的时候，她都会在中央电视台（CCTV）的春节联欢晚会上演唱歌曲。

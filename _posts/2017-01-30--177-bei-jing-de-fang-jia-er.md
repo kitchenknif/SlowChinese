@@ -4,7 +4,7 @@ title: 177 - 北京的房价（二）
 author: 独怡 Duyi and 希茜 Xixi
 date: 2017-01-30
 tags: [北京, 婚房, 房价, 炒房, 限购令, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_177.mp3
 summary: "
 今天，我们来继续介绍北京的房价。在上次的文章中，我们谈到炒房现象，也就是人们买卖房产，赚取差价的行为。为了限制炒房，2010年，政府出台了“限购”政策，这个政策被人们叫做“限购令”。“限购令”规定，只有北京户口的人才可以买房；已婚的人，每个家庭只能购买两套商品住房；单身的人只能购买一套商品住房。这样，在北京可以买房的人更少了。但北京的房价并没有因此停止上涨。原因也是多方面的。

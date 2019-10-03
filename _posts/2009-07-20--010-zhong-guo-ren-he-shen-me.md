@@ -4,7 +4,7 @@ title: 10 - 中国人喝什么？
 author: 昕煜 Xinyu
 date: 2009-07-20
 tags: [吃饭, 法律, 酒, 饭店, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_010.mp3
 summary: "中国人喜欢喝啤酒、葡萄酒，但它们都是从外国引进的酒。中国人也有自己的酒，比如：黄酒、白酒等等。
 黄酒的历史很长，是世界上最古老的酒之一，所以人们也叫它“老酒”。因为酿造黄酒的原料是米，所以它又有“米酒”的名字。黄酒有黄色、红色和黑色。它的酒精度比较低。黄酒很香，人们喜欢把它加热后再喝。黄酒特别有营养，被称为“液体蛋糕”。在中国的厨房里，黄酒是非常重要的调味料。各地都有自己的黄酒品牌。著名的黄酒品牌有：绍兴黄酒、即墨黄酒、古越龙山等等。

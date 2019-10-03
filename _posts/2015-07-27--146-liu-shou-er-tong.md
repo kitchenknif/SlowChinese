@@ -4,7 +4,7 @@ title: 146 - 留守儿童
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-07-27
 tags: [农民工, 留守儿童, 陪伴, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_146.mp3
 summary: "
 相信关注中国新闻的外国朋友对“农民工”这个词并不陌生。几十年前的中国，农民是农民，工人是工人。而现在，随着城市化的发展，很多农民进城，成了工人，也就是所谓的“农民工”。

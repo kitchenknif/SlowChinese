@@ -4,7 +4,7 @@ title: 182 - 你喜欢巧克力吗？
 author: 沛竺 Peizhu and 艳君 Yanjun
 date: 2017-04-03
 tags: [巧克力，情人节, 爱情, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_182.mp3
 summary: "
 去年暑假，我的一个波兰学生在四川成都旅行（就是那个以大熊猫和火锅出名的城市）。一天，她更新了一篇博客，开头第一句话就是：你能想象得到吗？我已经一个月没吃巧克力了！

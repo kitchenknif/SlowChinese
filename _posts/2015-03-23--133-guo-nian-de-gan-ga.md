@@ -4,7 +4,7 @@ title: 133 - 过年的尴尬
 author: 希茜 Xixi and 艳君 Yanjun
 date: 2015-03-23
 tags: [拜年, 礼仪, 过年, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_133.mp3
 summary: "
 中国春节有一个传统叫做“拜年”，主要是晚辈去长辈家拜年，比如，去给爷爷奶奶、外公外婆拜年，还有弟弟妹妹们也会去哥哥姐姐家拜年。春节期间借着拜年，亲友们互相联络感情，每个人都会见到很多亲戚朋友。最近我的朋友们就在微信群里吐槽见亲戚朋友们的一些尴尬事。

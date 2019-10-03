@@ -4,7 +4,7 @@ title: 166 - 单身是一种选择
 author: 艳君 Yanjun and 沛竺 Peizhu
 date: 2016-08-08
 tags: [剩女, 广告片, 相亲, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_166.mp3
 summary: "
 最近一个名为Marriage Market Takeover的广告片刷爆了微信朋友圈，上YouTube瞅了一眼，短短五天之内，点击超过一百万次。从评论中，我们看到不止是在中国，其他一些国家的年轻人也面临相似的问题。

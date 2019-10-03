@@ -4,7 +4,7 @@ title: 88 - 微信时代
 author: 希茜 Xixi
 date: 2014-04-07
 tags: [上网, 微信, 社交软件, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_088.mp3
 summary: "它拥有超过6亿用户，它影响了行业的发展趋势，它改变了人们的生活方式，它就是现在亚洲最流行的社交软件——微信（WeChat)。
 微信是一款免费的手机聊天软件，由腾讯公司于2011年初推出。它最主要的功能，是向好友发送文字和语音信息，还可以多人语音对讲。微信支持很多平台，用户可以随时随地通过微信联络。除此之外，微信用户还可以和好友分享图片、视频和所在的位置，也可以和他们打电话或进行视频聊天。

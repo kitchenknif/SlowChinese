@@ -4,7 +4,7 @@ title: 140 - 青春片
 author: 希茜 Xixi
 date: 2015-05-25
 tags: [王菲, 电影, 青春片, ]
-categories: ["Modern China", "Pop Culture", ]
+categories: ["Modern-China", "Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_140.mp3
 summary: "
 青春片，就是以青春为题材的电影或电视剧，大多是关于青春时期校园里的爱情故事，以及学生们离开校园后的生活。

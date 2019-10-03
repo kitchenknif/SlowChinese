@@ -4,7 +4,7 @@ title: 141 - 高考的记忆
 author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-06-08
 tags: [教育, 高考, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_141.mp3
 summary: "
 每年六月的时候，我都会梦见高考，有时候梦见自己忘了带准考证，有时候梦见自己忘了带笔，梦中的我很着急，一直哭，然后就醒了。和老同学聊起来，发现不止我一个人梦见高考。对于我们来说，高考是无法磨灭的青春记忆的一部分。

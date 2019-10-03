@@ -4,7 +4,7 @@ title: 36 - 新春快乐，虎年大吉！
 author: 昕煜 Xinyu
 date: 2010-02-11
 tags: [农历, 吃饭, 春节, 节日, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_036.mp3
 summary: "再过几天就是中国传统的新年春节了，这是中国人最重要的节日。无论你在中国的什么地方，你不仅能看到春节，也可以听到春节。
 春节，顾名思义，就是春天的节日。按照中国农历，春节是新一年的开始。据说，春节已经有四千多年的历史了。很多亚洲国家也过春节。传统上，春节从小年开始，也就是农历十二月二十三或二十四，直到农历一月十五元宵节才算真正结束；不过现在的春节已经简单了很多，我们一般只把除夕和大年初一当成春节。

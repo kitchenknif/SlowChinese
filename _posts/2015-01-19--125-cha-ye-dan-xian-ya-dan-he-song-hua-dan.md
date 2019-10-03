@@ -4,7 +4,7 @@ title: 125 - 茶叶蛋、咸鸭蛋和松花蛋
 author: 昕煜 Xinyu
 date: 2015-01-19
 tags: [吃饭, 咸鸭蛋, 松花蛋, 茶叶蛋, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_125.mp3
 summary: "
 民以食为天，中国人把吃看作是最重要的事情。在几千年的历史中，除了桌子和椅子，中国人几乎吃遍了所有长腿的东西，还发明了很多奇特的食物。即使对同一种食材，也会有很多种吃法。今天我们就说说几种中国特有的“蛋”。

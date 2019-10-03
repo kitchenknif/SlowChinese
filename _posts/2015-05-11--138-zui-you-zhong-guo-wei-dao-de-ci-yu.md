@@ -4,7 +4,7 @@ title: 138 - 最有中国味道的词语
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-05-11
 tags: [吐槽, 城管, 江南, 网络语言, 雾霾, ]
-categories: ["Language", "Modern China", ]
+categories: ["Language", "Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_138.mp3
 summary: "
 最近，新浪微博上一个叫“扶苏公子”的网友发起了一个讨论。大意是：两个字的词语，你觉得最有中国味道的，是什么？我想到的是“江南”。小时候跟着外婆住，附近的几个村庄都有小河穿流而过。所以我很喜欢江南水乡。

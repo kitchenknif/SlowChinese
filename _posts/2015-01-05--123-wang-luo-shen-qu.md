@@ -4,7 +4,7 @@ title: 123 - 网络神曲
 author: 昕煜 Xinyu
 date: 2015-01-05
 tags: [小苹果, 神曲, 网络, ]
-categories: ["Pop Culture", ]
+categories: ["Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_123.mp3
 summary: "
 互联网让每个人都可以向世界展示自己、分享自己的作品。于是，就出现了“网络神曲”。《神曲》其实是意大利诗人但丁的作品。但是，我们今天说的“网络神曲”，字面上的意思就是：通过网络传播的“奇特”的歌曲……

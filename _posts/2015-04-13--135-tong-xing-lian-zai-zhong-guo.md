@@ -4,7 +4,7 @@ title: 135 - 同性恋在中国
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2015-04-13
 tags: [同志, 同性恋, 结婚, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_135.mp3
 summary: "
 同性恋，指的是同种性别的人之间的恋爱，也就是男人和男人，或者女人和女人之间的恋爱。以前，虽然在中国一直有同性恋者存在，他们却一直没有一个恰当的称呼。“同性恋”这个称呼是从外语（homosexuality）中引进到中文的，它既可以指一种性取向，也可以指一种恋爱行为，还可以也指这种人群。在中国，同性恋人群还有另外一个叫法，就是“同志”。

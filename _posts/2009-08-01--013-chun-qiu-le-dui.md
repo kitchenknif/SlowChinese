@@ -4,7 +4,7 @@ title: 13 - 春秋乐队
 author: 昕煜 Xinyu
 date: 2009-08-01
 tags: [北京, 摇滚, 春秋乐队, 迷笛音乐节, ]
-categories: ["Pop Culture", ]
+categories: ["Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_013.mp3
 summary: "昕煜虽然在做慢速中文，但喜欢快节奏的东西。今天我给大家推荐一支重金属摇滚乐队——春秋乐队。2007年我参加了北京迷笛音乐节，看到春秋乐队的表演觉得很震撼，马上买了一张CD。乐队成员的技术很好，他们的风格也很独特：歌曲主题都和中国神话或历史有关。值得一提的是，春秋乐队的吉他手郭怡广来自于唐朝乐队，而唐朝乐队曾经是中国最著名的摇滚乐队。
 请听春秋乐队的歌曲《天下》。

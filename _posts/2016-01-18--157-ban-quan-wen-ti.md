@@ -4,7 +4,7 @@ title: 157 - 版权问题
 author: 沛竺 Peizhu and 艳君 Yanjun
 date: 2016-01-18
 tags: [微博, 法律, 版权, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_157.mp3
 summary: "
 前阵子，新浪微博上有一个名叫王源宗的自由摄影师发了一条微博，说他拍摄的西藏风景录像被中央电视台盗用了。他打电话联系电视台，但是对方却以各种理由推卸责任，甚至不承认盗用的事实。后来，他只好把电话录音放到了网上，很多人关注和转发，大家都表示支持他维护自己的权利。最后，电视台栏目组向他道了歉，并支付了一笔费用。

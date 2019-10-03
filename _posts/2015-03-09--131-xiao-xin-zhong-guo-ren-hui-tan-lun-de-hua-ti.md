@@ -4,7 +4,7 @@ title: 131 小心！中国人会谈论的话题
 author: 希茜 Xixi
 date: 2015-03-09
 tags: [聊天, 话题, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_131.mp3
 summary: "
 刚到中国的外国人，可能会对中国朋友之间谈论的一些话题感到尴尬，甚至觉得被侵犯了隐私。下面几个问题，你的中国朋友有没有问过你呢？

@@ -4,7 +4,7 @@ title: 132 - 中国人吃狗吗
 author: 昕煜 Xinyu
 date: 2015-03-16
 tags: [吃饭, 狗, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_132.mp3
 summary: "
 “中国人吃狗吗？”，这个问题，无论是中国人还是外国人，都不是很喜欢。中国人会觉得，这个问题很不礼貌；对于外国人来说，“吃狗”是一件很可怕的事情。那么，中国人吃狗吗？

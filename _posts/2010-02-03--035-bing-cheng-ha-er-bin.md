@@ -4,7 +4,7 @@ title: 35 - “冰城”哈尔滨
 author: 昕煜 Xinyu
 date: 2010-02-03
 tags: [东北, 哈尔滨, 黑龙江, ]
-categories: ["Backpack China", ]
+categories: ["Backpack-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_035.mp3
 summary: "上月底，我和朋友杜文凯去“冰城”哈尔滨旅行。这是我去过的最冷的地方，给我留下了难忘的回忆。
 哈尔滨是中国最北的省——黑龙江省的省会，它是中国东北地区最大的城市之一。哈尔滨是一个多民族多文化的城市，那里生活着满族人、朝鲜族人和回族人等中国少数民族，也生活着俄罗斯人、犹太人等外国民族。当你走在哈尔滨的街上，你觉得自己不在中国，也不在欧洲，而是在一个世界城市。

@@ -4,7 +4,7 @@ title: 190 - 爱上一座城——上海
 author: 沈妮 Daisy and 希茜 Xixi
 date: 2017-06-26
 tags: [上海, 城市, 美食, 都市, ]
-categories: ["Backpack China", ]
+categories: ["Backpack-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_190.mp3
 summary: "
 暑假就快开始了，想着马上就可以出去旅行，是不是感到特别开心？今天，就让我为你介绍一下中国的另一个大城市—上海。

@@ -4,7 +4,7 @@ title: 174 - 在中国当老师
 author: 沈妮 Daisy and 小璐 Xiaolu
 date: 2017-01-09
 tags: [儒学, 老师, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_174.mp3
 summary: "
    尊敬老师是世界上很多国家共同的文化，特别在亚洲，比如韩国、日本和泰国，人们都有尊师重道的传统。

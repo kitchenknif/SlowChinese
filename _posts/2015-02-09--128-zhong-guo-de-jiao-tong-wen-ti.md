@@ -4,7 +4,7 @@ title: 128 - 中国的交通问题
 author: 昕煜 Xinyu
 date: 2015-02-09
 tags: [交通, 交通问题, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_128.mp3
 summary: "
 孔子说：“良药苦口利于病，忠言逆耳利于行。”也就是说：药虽然不好喝，但是可以带来健康；有些话虽然不好听，但是可以帮助我们变得更好。既然孔子都这么说了，那我们就放下面子，一起找找良药。今天我就说说中国的交通问题。

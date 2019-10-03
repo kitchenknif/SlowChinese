@@ -4,7 +4,7 @@ title: 151 - 中式教育
 author: 希茜 Xixi
 date: 2015-09-28
 tags: [教育, 纪录片, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_151.mp3
 summary: "
 最近，一部BBC拍摄的纪录片引发了中国和国际社会的关注。这部纪录片叫做《我们的孩子足够坚强吗？中式学校》（Are Our Kids Tough Enough? Chinese School），一共有3集，主要讲述了5名中国教师在英国的一所公立中学，实施4周中式教学实验的故事。

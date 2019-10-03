@@ -4,7 +4,7 @@ title: 154 计划生育和开放二胎
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-11-16
 tags: [二胎, 法律, 计划生育, ]
-categories: ["History and Tradition", "Modern China", ]
+categories: ["History-and-Tradition", "Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_154.mp3
 summary: "
 2015年十月底，“开放二胎”的新闻占领了中国各大报纸的头条。国外的媒体也纷纷发表文章报道这个消息。中国的民众其实并不觉得意外，因为从这几年的情况来看，“开放二胎”是早晚的事情。

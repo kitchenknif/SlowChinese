@@ -4,7 +4,7 @@ title: 172 - 英美电视剧在中国
 author: 希茜 Xixi and 艳君 Yanjun
 date: 2016-12-19
 tags: [电视剧, 美剧, 英剧, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_172.mp3
 summary: "
 最近动画电视剧《马男波杰克》在中国火了。微博上到处都是电视剧的截图，还有很多人把剧中的人物当作自己在社交网络上的头像。这部剧第一季在豆瓣网（一个提供关于书籍、电影、音乐等作品信息的社区网站）上的评分高达9.3。在动画片中，这是非常难得的分数了。

@@ -4,7 +4,7 @@ title: 179 - 民谣歌手赵雷
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2017-03-13
 tags: [歌手, 民谣, 赵雷, 音乐, ]
-categories: ["Pop Culture", ]
+categories: ["Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_179.mp3
 summary: "
 今天，我要为大家介绍一位民谣歌手，他的名字叫赵雷。我第一次知道赵雷，是在选秀节目《中国好歌曲》上。赵雷在节目现场演唱了一首他自己的原创歌曲————《画》。当时，我觉得这首歌的歌词写得特别美，听起来像一首诗。赵雷也就是在这个节目出名的。

@@ -4,7 +4,7 @@ title: 194 共享经济时代
 author: 沛竺 Peizhu
 date: 2017-09-25
 tags: [共享, 共享单车, 共享经济, 滴滴打车, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_194.mp3
 summary: "
 现在，中国跟全世界很多地方一样，有越来越多人不坐出租车，用滴滴打车（中国的Uber）或者共享单车出行；不住酒店，通过爱彼迎(Airbnb)住在当地人家里；出去吃饭不去餐馆，而是选择私厨。可以说，共享经济正在改变着我们的生活方式。

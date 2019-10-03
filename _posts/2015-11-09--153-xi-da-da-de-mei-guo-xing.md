@@ -4,7 +4,7 @@ title: 153 - 习大大的美国行
 author: 沛竺 Peizhu
 date: 2015-11-09
 tags: [习近平, 政治, 美国, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 ---
 
 

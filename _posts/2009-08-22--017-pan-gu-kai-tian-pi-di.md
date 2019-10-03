@@ -4,7 +4,7 @@ title: 17 - 盘古开天辟地
 author: 昕煜 Xinyu
 date: 2009-08-22
 tags: [盘古, 神话, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_017.mp3
 summary: "圣经里，上帝创造了世界，而在中国神话里，世界是由一位名叫盘古的巨人创造的。盘古开天辟地，是中国神话中的“创世纪”。
 很久很久以前，整个世界就像一只巨大的蛋，浑浊不清，既没有光也没有声音。就在这样的环境下，人类的祖先——盘古——出生了。他在混沌中沉睡了无数年后终于醒来。他手里有一把斧头，于是就不停地往外挖，想离开这个黑暗的世界。终于有一天，世界被他劈开：清的东西往上飘形成了天，浊的东西往下沉形成了地。

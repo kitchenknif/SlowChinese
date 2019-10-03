@@ -4,7 +4,7 @@ title: 3 - 在饭店吃饭
 author: 昕煜 Xinyu
 date: 2009-06-27
 tags: [中餐, 吃饭, 筷子, 饭店, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_003.mp3
 summary: "
 每当过节或者聚会，中国人就喜欢到饭店吃饭。在饭店吃饭有很多礼仪，但是首先要放松，想象一下美味的中华美食……

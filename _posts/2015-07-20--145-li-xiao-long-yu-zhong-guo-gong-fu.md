@@ -4,7 +4,7 @@ title: 145 - 李小龙与中国功夫
 author: 时溦 Shiwei and 小璐 Xiaolu
 date: 2015-07-20
 tags: [功夫, 李小龙, 电影, ]
-categories: ["Pop Culture", ]
+categories: ["Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_145.mp3
 summary: "
 提到“功夫”一词，人们首先想到的就是功夫电影中，功夫大师飞檐走壁的场景。功夫也叫武术，中国功夫被人们了解、熟悉，要从上世纪七十年代李小龙的功夫电影说起。他在为数不多的电影作品中，用帅气的表演征服了世界各地的影迷，也让全世界开始了解中国功夫和武术精神。

@@ -4,7 +4,7 @@ title:  181 - 爱上一座城——香港
 author: 沈妮 Daisy and 希茜 Xixi
 date: 2017-03-27
 tags: [城市, 旅行, 香港, ]
-categories: ["Backpack China", ]
+categories: ["Backpack-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_181.mp3
 summary: "
 香港，历来被人们称为“东方明珠”。它长久以来都是中国与世界连接的一个重要通道，因此快速成为了一个世界级的国际大都市和金融中心。

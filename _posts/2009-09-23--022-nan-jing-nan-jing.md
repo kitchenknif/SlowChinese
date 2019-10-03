@@ -4,7 +4,7 @@ title: 22 - 南京！南京！
 author: 昕煜 Xinyu
 date: 2009-09-23
 tags: [南京大屠杀, 抗日战争, 电影, ]
-categories: ["Pop Culture", ]
+categories: ["Pop-Culture", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_022.mp3
 summary: "今天我给大家推荐一部中国电影，叫《南京！南京！》。电影的导演是陆川。这是一部根据真实历史改编的电影，是一部产生争议但同时又引起轰动的电影。
 事件发生在上个世纪三十年代，地点是当时中国的首都南京。这是一场残酷的大灾难，是中国人记忆里难以抹去的恐怖回忆。日本侵华战争时期，日本军队在南京发动了一场惨绝人寰的大屠杀。

@@ -4,7 +4,7 @@ title: 134 - 你是文青吗？
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-04-06
 tags: [上网, 年轻人, 文青, 网络, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_134.mp3
 summary: "
 “文青”是“文艺青年”的简称，文艺指的是：文学和艺术。网络上有很多关于文青的概念、定义，今天就和大家聊一聊我眼中的“文青”是什么样的。

@@ -4,7 +4,7 @@ title: 168 - 中国年轻人的职业“间隔年”
 author: 希茜 Xixi and 艳君 Yanjun
 date: 2016-09-19
 tags: [年轻人, 旅行, 辞职, 间隔年, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_168.mp3
 summary: "
 “世界那么大，我想去看看”。2015年4月14日早晨，河南省实验中学一名年轻女老师的一封只有十个字的辞职信，曾在中国网络上引发热评。网友评价说，这是“史上最具情怀的辞职信”。2016年发布的《中国语言生活状况报告》，把“世界那么大，我想去看看”列为2015年度“十大网络用语”之一。

@@ -4,7 +4,7 @@ title: 156 - 说说习马会
 author: 沛竺 Peizhu
 date: 2015-12-21
 tags: [习近平, 台湾, 政治, 马英九, ]
-categories: ["History and Tradition", "Modern China", ]
+categories: ["History-and-Tradition", "Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_156.mp3
 summary: "
 在过去的几个月里，习大大真忙啊。九月在美国和奥巴马共进晚宴，十月在英国跟卡梅伦喝酒聊天，十一月飞到新加坡，跟马英九微笑握手。他们的双手一握，马上就成了各大新闻头条。原因很简单：这是自1949年中国内战结束之后，中国大陆和台湾领导人的首次会谈。

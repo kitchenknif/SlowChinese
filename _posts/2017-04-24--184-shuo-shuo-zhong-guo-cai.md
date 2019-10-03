@@ -4,7 +4,7 @@ title: 184 - 说说中国菜
 author: 沛竺 Peizhu and 希茜 Xixi
 date: 2017-04-24
 tags: [中国菜, 中西差异, 食物, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_184.mp3
 summary: "
 有很多美国人跟我说过：“我很喜欢吃中餐！”每次我都会好奇地问他们：“你喜欢哪些中国菜呢？”他们的回答大都是这几个菜：芙蓉蛋(Egg Fu Young)、捞面(Lo Mein)、左宗鸡(General Tso’s Chicken)……我会告诉他们：“我在来美国之前，都没吃过这几个中国菜呢。”听了这句话，他们往往会很惊讶地看着我，说：“你是中国人吗？”

@@ -4,7 +4,7 @@ title: 173 - 校园霸凌
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2017-01-02
 tags: [心理健康, 欺凌, 霸凌, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_173.mp3
 summary: "
 2016年12月，北京中关村二小的一位学生家长在网络上发布了一篇文章，提到自己的孩子遭遇校园霸凌，事后出现了入睡困难、易怒、极度需要陪伴和情绪激动等症状。家长在文中质疑学校对这件事情处理不当。

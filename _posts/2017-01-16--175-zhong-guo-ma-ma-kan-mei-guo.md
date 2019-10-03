@@ -4,7 +4,7 @@ title: 175 - 中国妈妈看美国
 author: 沛竺 Peizhu
 date: 2017-01-16
 tags: [妈妈, 文化差异, 生活, 看法, 美国, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_175.mp3
 summary: "
 在167的那篇播客中，我讲了几个跟我妈妈有关的小故事。写那篇播客的时候，她刚来美国不久。时间过得真快，转眼间，她马上就要回中国了。在美国住了半年，我妈妈对美国可以说是又爱又恨。

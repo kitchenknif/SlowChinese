@@ -4,7 +4,7 @@ title: 124 - 中国人的红与白
 author: 独怡 Duyi and 希茜 Xixi
 date: 2015-01-12
 tags: [结婚, 节日, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_124.mp3
 summary: "
 大家都知道，中国人特别喜欢红色。以前，中国人结婚的时候，新娘和新郎都会穿上红色的礼服，戴着红色的花。新娘的头上还要盖一块红色的布，坐着红色的轿子来到新郎家。新娘和新郎的房间也是红色的。墙上贴着红色的“喜”字，人们会放红色的鞭炮，新郎和新娘的床单、被子也常常是红色的。客人们会把钱放在红色的信封里面，做成“红包”，送给新娘和新郎。中国人这么喜欢红色是为什么呢？今天，我们就来说一说，红和白这两种颜色，在中国文化中的意义。

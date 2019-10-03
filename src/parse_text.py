@@ -51,7 +51,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             tags = [tag.get_text() for tag in raw_tags.find_all("a")]
 
             raw_cat = soup.article.find("span", "meta_category")
-            categories = [tag.get_text() for tag in raw_cat.find_all("a")]
+            categories = [tag.get_text().replace(" ", "-") for tag in raw_cat.find_all("a")]
 
             transcript = []
             if len(soup.article.find_all("div", id="-0")) == 0:

@@ -4,7 +4,7 @@ title: 176 - 北京的房价（一）
 author: 独怡 Duyi and 希茜 Xixi
 date: 2017-01-23
 tags: [北京, 房价, 房子, 涨价, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_176.mp3
 summary: "
    今天我们来说说房价。房价，就是房子的价格。中国很大，每个地方的房价差别也很大。中国房价最贵的地方，就是北京、上海、广州、深圳这些大城市。我在北京住了很多年，对北京的房价有很深的感受。所以，今天我们就来讲讲北京的房价。

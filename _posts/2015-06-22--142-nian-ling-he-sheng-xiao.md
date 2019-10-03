@@ -4,7 +4,7 @@ title: 142 - 年龄和生肖
 author: 小璐 Xiaolu and 艳君 Yanjun
 date: 2015-06-22
 tags: [年龄, 生肖, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_142.mp3
 summary: "
 记得大学毕业后，第一次走上讲台，面对外国学生，我做了一份小小的调查表，了解他们的年龄、爱好、家长联系方式等等。当把表格都收上来的时候，发现即使是出生在同一年的学生，年龄也不一样。有的十四岁，有的十三岁。我很好奇：明明是出生在同一年，为什么年龄不一样？

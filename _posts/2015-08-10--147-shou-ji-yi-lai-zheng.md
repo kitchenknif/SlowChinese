@@ -4,7 +4,7 @@ title: 147 - 手机依赖症
 author: 希茜 Xixi
 date: 2015-08-10
 tags: [微信, 手机, 社会问题, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_147.mp3
 summary: "
 给大家讲一个笑话：一群人到海边度假，法国人看美女，德国人整天潜水，意大利人每天晒日光浴，而中国人会问：这里有WiFi吗？

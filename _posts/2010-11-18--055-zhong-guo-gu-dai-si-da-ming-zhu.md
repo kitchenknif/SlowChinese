@@ -4,7 +4,7 @@ title: 55 - 中国古代四大名著
 author: 昕煜 Xinyu
 date: 2010-11-18
 tags: [历史, 四大名著, 文学, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_055.mp3
 summary: "要说中国的古代文学，四大名著是不得不提的。四大名著是：《三国演义》、《水浒传》、《西游记》和《红楼梦》。
 《三国演义》是根据历史改编的，但又和历史不完全一样。汉朝最后几年，政府已经无法管理整个国家了，于是发生了很多战争，出现了三个强大的国家：魏国、蜀国和吴国。三个国家既为了生存，也为了得到整个中国，进行了很多战争。小说里面写了很多人物、很多战争，故事非常复杂。想要看懂《三国演义》需要很大的耐心。
