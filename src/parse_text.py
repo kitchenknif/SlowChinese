@@ -1,5 +1,7 @@
 import os
 import regex as re
+import eyed3
+import datetime
 
 import bs4
 from bs4 import BeautifulSoup
@@ -65,13 +67,16 @@ for dirpath, dnames, fnames in os.walk(workingdir):
                 outlines.append("\"" + tag + "\", ")
             outlines.append("]\n")
 
-            if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
+            localaudiofname = os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))
+            if os.path.exists(localaudiofname):
+                flength = os.path.getsize(localaudiofname)
+                fduration = datetime.timedelta(seconds=eyed3.load(localaudiofname).info.time_secs)
                 outlines.append(
                     "file: //archive.org/download/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
                         episode_num))
                 outlines.append("summary: \"\"\n")
-                outlines.append("duration: \"\"\n")
-                outlines.append("length: \"\"\n")
+                outlines.append("duration: \"{}\"\n".format(fduration))
+                outlines.append("length: \"{}\"\n".format(flength))
 
             # # image: cutting.jpg
             outlines.append("---\n\n")
@@ -80,11 +85,12 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             #
             # Audio Embed
             #
+            embed_text = []
             if os.path.exists(os.path.join(audiodir, "Slow_Chinese_{:03d}.mp3".format(episode_num))):
                 audiofname = "https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3".format(episode_num)
                 embed = "<iframe src=\"https://archive.org/embed/slowchinese_201909/Slow_Chinese_{:03d}.mp3\" width=\"500\" height=\"30\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen></iframe>\n"
                 embed = embed.format(episode_num)
-                outlines.append(embed)
+                embed_text.append(embed)
 
 
 
@@ -104,4 +110,5 @@ for dirpath, dnames, fnames in os.walk(workingdir):
 
         with open(os.path.join(targetdir, date + "--" + outfname), "w") as f_out:
             f_out.writelines(outlines)
+            f_out.writelines(embed_text)
             f_out.writelines(transcript)
