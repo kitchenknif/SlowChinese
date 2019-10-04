@@ -4,11 +4,16 @@ title: 77 - 中国的“第一夫人”
 author: 独怡 Duyi and 小璐 Xiaolu
 date: 2014-01-20
 tags: [彭丽媛, 第一夫人, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_077.mp3
-summary: ""
-duration: ""
-length: ""
+summary: "今天，我要给大家介绍一位名人。许多人可能已经在电视或者报纸上见到过她，她就是中国现在的“第一夫人”——彭丽媛。“第一夫人”这个词，来源于英语的First Lady，指的是国家元首的夫人。
+彭丽媛出生在山东的一个小村庄。在成为“第一夫人”之前，她在中国就非常有名。彭丽媛曾经是中国最有名的民歌歌手。每年过春节的时候，她都会在中央电视台（CCTV）的春节联欢晚会上演唱歌曲。
+彭丽媛与习近平是在1987年结婚的。当时习近平是福建省厦门市的副市长。自从成为“第一夫人”以来，彭丽媛更加成为了人们关注的焦点。她以沉稳和优雅的气质，得体又时尚的穿着，在中国掀起了一股“第一夫人热”。在电视和报纸上，有很多关于她的报道。在微博上，也有很多她的粉丝。有观众还埋怨说，在电视新闻中，“第一夫人”的镜头太少了。彭丽媛不仅受到新闻界的关注，还受到时尚界的关注。她的服装造型受到许多人的追捧。在网络上，“第一夫人手袋”、 “第一夫人大衣”成为了热卖商品。
+彭丽媛在中国的“公众形象满意度”非常高。人们觉得，彭丽媛的形象让人觉得很亲切。现在，她致力于许多慈善事业，被世界卫生组织（WHO）任命为“结核病防治亲善大使”和“艾滋病防治亲善大使”。
+ 
+"
+duration: "0:04:00.431020"
+length: "4154627"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_077.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

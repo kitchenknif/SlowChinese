@@ -4,11 +4,17 @@ title: 132 - 中国人吃狗吗
 author: 昕煜 Xinyu
 date: 2015-03-16
 tags: [吃饭, 狗, ]
-categories: ["History and Tradition", ]
+categories: ["History-and-Tradition", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_132.mp3
-summary: ""
-duration: ""
-length: ""
+summary: "
+“中国人吃狗吗？”，这个问题，无论是中国人还是外国人，都不是很喜欢。中国人会觉得，这个问题很不礼貌；对于外国人来说，“吃狗”是一件很可怕的事情。那么，中国人吃狗吗？
+首先，必须承认，中国的汉族人以前是吃狗的。因为在古代的时候，除了鸡、鸭、猪之外，中国人也把狗作为食物的来源之一。狗肉是一种特别的美味，当有客人的时候，人们会拿出狗肉给客人吃，来表示自己的友好。吃狗在中国是一种传统的习惯。其实，中国还有一些其他的民族，他们是不吃狗的。蒙古族就不吃狗，因为狗能够帮助他们打猎，是很重要的朋友。
+在很多国家，狗是很好的朋友。它们这么可爱，为什么要吃掉它们？这是很多人不理解中国人吃狗的一个原因。其实现在大部分中国人，也特别爱狗。他们家里会养狗做宠物，所以很少人还会吃狗。只有在很少几个地方，还保留着吃狗的传统。
+在吃狗这件事情上，中国人被批评，还有一个原因是一些人对待狗的方式非常残忍。特别是在一些小城市，人们还会捕捉街上的流浪狗，用很残忍地方式去杀死它们，这些都让爱狗的人觉得很难受。还有一些人会去解救被捕捉的流浪狗。
+我们都觉得，如果有一个合理健康的狗肉产业，吃狗没有什么错。只是，如果用不人道的方式去对待狗，对待任何其他一种生命，都应该受到批评！
+"
+duration: "0:03:15.793096"
+length: "5124643"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_132.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

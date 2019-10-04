@@ -4,11 +4,15 @@ title: 185 - 星巴克在中国
 author: 沈妮 Daisy and 沛竺 Peizhu
 date: 2017-05-01
 tags: [咖啡, 星巴克, ]
-categories: ["Modern China", ]
+categories: ["Modern-China", ]
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_185.mp3
-summary: ""
-duration: ""
-length: ""
+summary: "
+作为世界著名的咖啡连锁店，星巴克已经成为了中国年轻人喝咖啡的首选。无论是北京、上海、广州这样的大城市，还是一些比较偏远的小城市，你都能喝到这杯印有绿色美人鱼标志的星巴克咖啡。很多人还会戏称它为“星爸爸”。
+尽管很多人抱怨星巴克的咖啡太贵，味道也不好，但是不可否认，因为星巴克的普及，越来越多的年轻人开始把咖啡作为一天的开始，并把它融入到每天生活中。不管是在机场、火车站，公司楼下还是百货公司，当你最想坐下来休息一下，或者和朋友约会见面时，星巴克是最容易找到的小憩之处。
+在中国的一些景点，你也可以找到星巴克的身影。我特别喜欢杭州灵隐寺边的星巴克。在那个千年古寺的旁边，星巴克也改变了以往的风格，融入了很多中国的元素和装饰，使它与周围的环境更协调。另外，星巴克在每个城市还推出了带有当地独特风格的“城市杯”，成为了大家旅行时喜爱的纪念品。
+"
+duration: "0:03:12.127355"
+length: "3481442"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_185.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

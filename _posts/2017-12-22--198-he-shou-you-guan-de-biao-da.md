@@ -7,8 +7,8 @@ categories: []
 tags: []
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_198.mp3
 summary: ""
-duration: ""
-length: ""
+duration: "0:04:07.698236"
+length: "6061776"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_198.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

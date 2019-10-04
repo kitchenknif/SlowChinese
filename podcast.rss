@@ -47,7 +47,7 @@
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
-				<itunes:keywords>{{ post.tags }}</itunes:keywords>
+				<itunes:keywords>{% for tag in post.tags %}{{tag}}, {% endfor %}}</itunes:keywords>
 				<itunes:image href="{{ site.url }}/assets/img/album_cover.jpg" />
 			</item>
 		{% endfor %}
