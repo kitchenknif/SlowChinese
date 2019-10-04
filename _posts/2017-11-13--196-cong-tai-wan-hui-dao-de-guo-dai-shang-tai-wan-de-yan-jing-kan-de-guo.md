@@ -2,7 +2,7 @@
 layout: post
 title: 196 - 从台湾回到德国/ 戴上台湾的“眼镜”看德国
 author:  Slow Chinese
-date: 2017-12-22
+date: 2017-11-13
 categories: []
 tags: []
 file: //archive.org/download/slowchinese_201909/Slow_Chinese_196.mp3

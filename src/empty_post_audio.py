@@ -73,6 +73,9 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                 if os.path.exists(os.path.join(externaltextdir, "{}.txt".format(episode_num))):
                     with open(os.path.join(externaltextdir, "{}.txt".format(episode_num))) as f:
                         transcript = f.readlines()
+                        if transcript[0].startswith("date:"):
+                            date = datetime.datetime.strptime(transcript[0].split(":")[1].strip(), "%Y-%m-%d")
+                            transcript = transcript[1:]
 
                 print(title, date, outfname)
 
