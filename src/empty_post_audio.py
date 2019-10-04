@@ -7,6 +7,7 @@ from xpinyin import Pinyin
 p = Pinyin()
 
 audiodir = "./websites/slow-chinese.com/podcasts/"
+externaltextdir = "./websites/external_transcripts/"
 targetdir = "../_posts/"
 
 
@@ -68,6 +69,10 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                     title = str(episode_num) + title[3:]
                     print("broken title episode number fixed")
 
+                transcript = []
+                if os.path.exists(os.path.join(externaltextdir, "{}.txt".format(episode_num))):
+                    with open(os.path.join(externaltextdir, "{}.txt".format(episode_num))) as f:
+                        transcript = f.readlines()
 
                 print(title, date, outfname)
 
@@ -88,7 +93,7 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                     outlines.append(
                         "file: //archive.org/download/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
                             episode_num))
-                    outlines.append("summary: \"\"\n")
+                    outlines.append("summary: \"{}\"\n".format("".join(transcript)))
                     outlines.append("duration: \"{}\"\n".format(audiolength))
                     outlines.append("length: \"{}\"\n".format(audiosize))
 
@@ -107,3 +112,4 @@ for dirpath, dnames, fnames in os.walk(audiodir):
                                        "--" + outfname), "w") as f:
 
                     f.writelines(outlines)
+                    f.writelines(transcript)
