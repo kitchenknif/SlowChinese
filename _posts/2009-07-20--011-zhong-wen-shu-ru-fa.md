@@ -14,7 +14,7 @@ summary: "在电脑上打字叫做输入。如果给你一个普通的、写满�
  
 "
 duration: "0:02:45.063976"
-length: "3385558"
+length: "3090788"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_011.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

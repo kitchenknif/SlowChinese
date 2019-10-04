@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 157 - 版权问题
-author: 沛竺 Peizhu and 艳君 Yanjun
+author: 艳君 Yanjun and 沛竺 Peizhu
 date: 2016-01-18
 tags: [微博, 法律, 版权, ]
 categories: ["Modern-China", ]

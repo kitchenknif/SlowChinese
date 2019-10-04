@@ -14,7 +14,7 @@ summary: "今天我简单地介绍一下中国的教育系统。中国的教育�
  
 "
 duration: "0:03:35.414663"
-length: "4292065"
+length: "3998863"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_030.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

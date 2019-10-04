@@ -13,7 +13,7 @@ summary: "今天，2009年9月9日，对于中国人来说，是百年一遇的�
  
 "
 duration: "0:02:03.215312"
-length: "2632285"
+length: "2337839"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_020.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

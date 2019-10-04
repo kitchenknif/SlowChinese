@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 138 - 最有中国味道的词语
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-05-11
 tags: [吐槽, 城管, 江南, 网络语言, 雾霾, ]
 categories: ["Language", "Modern-China", ]

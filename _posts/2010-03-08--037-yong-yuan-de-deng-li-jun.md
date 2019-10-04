@@ -14,7 +14,7 @@ summary: "如果要介绍中国的流行音乐，有一个人是不得不提的�
  
 "
 duration: "0:04:37.309527"
-length: "5405289"
+length: "5112073"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_037.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

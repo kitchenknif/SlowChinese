@@ -14,7 +14,7 @@ summary: "“城市，让生活更美好”，这是2010年上海世博会的口
  
 "
 duration: "0:02:37.888528"
-length: "3256722"
+length: "2963514"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_053.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

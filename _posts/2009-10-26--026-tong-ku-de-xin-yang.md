@@ -48,7 +48,7 @@ summary: "迷笛音乐节是中国最著名的摇滚音乐节，从第一届音�
 
 "
 duration: "0:03:49.771172"
-length: "4549574"
+length: "4255110"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_026.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

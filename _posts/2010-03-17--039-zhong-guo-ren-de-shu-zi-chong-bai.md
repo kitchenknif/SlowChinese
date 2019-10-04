@@ -14,7 +14,7 @@ summary: "中国人对数字的崇拜是世界闻名的。从古代到现代，�
  
 "
 duration: "0:03:54.101106"
-length: "4628175"
+length: "4334957"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_039.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

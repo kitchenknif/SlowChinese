@@ -13,7 +13,7 @@ summary: "中国人喜欢喝啤酒、葡萄酒，但它们都是从外国引进�
  
 "
 duration: "0:01:42.242320"
-length: "2254735"
+length: "1960489"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_010.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

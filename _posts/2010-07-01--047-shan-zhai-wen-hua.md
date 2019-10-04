@@ -14,7 +14,7 @@ summary: "中国是一个制造大国，几乎在世界的每个角落都可以�
  
 "
 duration: "0:03:38.473490"
-length: "4346940"
+length: "4108502"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_047.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

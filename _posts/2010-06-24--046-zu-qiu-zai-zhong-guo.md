@@ -13,7 +13,7 @@ summary: "世界杯正在南非举行，全世界都是非洲时间，中国也�
  
 "
 duration: "0:02:56.086871"
-length: "3584014"
+length: "3290800"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_046.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ summary: "2008年夏天，全世界把目光聚集在中国北京。这是奥林
  
 "
 duration: "0:03:12.206034"
-length: "3874439"
+length: "3579133"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_023.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ summary: "圣经里，上帝创造了世界，而在中国神话里，世界是�
  
 "
 duration: "0:01:54.088017"
-length: "2467783"
+length: "2174569"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_017.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

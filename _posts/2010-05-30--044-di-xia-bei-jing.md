@@ -32,7 +32,7 @@ summary: "很惭愧地说，我对北京并不了解。我在北京快四年了�
  
 "
 duration: "0:06:39.787908"
-length: "7609701"
+length: "7316489"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_044.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

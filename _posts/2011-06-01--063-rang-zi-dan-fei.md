@@ -13,7 +13,7 @@ summary: "不久前，我看了电影《让子弹飞》，感觉棒极了，所�
  
 "
 duration: "0:03:09.665653"
-length: "3828294"
+length: "3590031"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_063.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ summary: "今天给大家介绍一句非常流行的俗语：说曹操，曹操�
  
 "
 duration: "0:01:31.584306"
-length: "2062846"
+length: "1768728"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_016.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ summary: "今天我给大家推荐一部中国电影，叫《南京！南京！�
  
 "
 duration: "0:03:32.879229"
-length: "4246267"
+length: "3953051"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_022.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

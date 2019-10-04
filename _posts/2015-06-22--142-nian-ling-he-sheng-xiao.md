@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 142 - 年龄和生肖
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-06-22
 tags: [年龄, 生肖, ]
 categories: ["History-and-Tradition", ]

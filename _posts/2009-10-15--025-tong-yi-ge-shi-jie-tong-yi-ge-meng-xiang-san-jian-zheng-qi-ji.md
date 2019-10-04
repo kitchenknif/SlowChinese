@@ -35,7 +35,7 @@ We are family.
 
 "
 duration: "0:05:16.482974"
-length: "6110681"
+length: "5815147"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_025.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

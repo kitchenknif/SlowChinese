@@ -13,7 +13,7 @@ summary: "一个外国人不喜欢圣诞节，就来到中国，他以为中国�
  
 "
 duration: "0:02:46.883599"
-length: "3418253"
+length: "3125017"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_032.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

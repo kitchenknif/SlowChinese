@@ -14,7 +14,7 @@ summary: "《学习雷锋好榜样》这首老歌陪伴过很多人的童年。�
  
 "
 duration: "0:02:52.033834"
-length: "3510949"
+length: "3216191"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_015.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

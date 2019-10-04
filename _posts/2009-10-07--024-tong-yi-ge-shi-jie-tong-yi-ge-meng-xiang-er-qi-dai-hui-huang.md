@@ -16,7 +16,7 @@ summary: "2008年8月8日的晚上，北京城灯火通明。在国家体育场�
  
 "
 duration: "0:03:39.767552"
-length: "4370499"
+length: "4075025"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_024.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 170 - 电子书《真实语料学中文》
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2016-12-05
 tags: [汉字, 电子书, 真实语料, ]
 categories: ["Language", ]

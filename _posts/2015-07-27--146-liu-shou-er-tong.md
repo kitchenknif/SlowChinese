@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 146 - 留守儿童
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-07-27
 tags: [农民工, 留守儿童, 陪伴, ]
 categories: ["Modern-China", ]

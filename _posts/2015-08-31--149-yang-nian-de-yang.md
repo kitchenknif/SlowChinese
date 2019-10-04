@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 149 - “羊年”的“羊”
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-08-31
 tags: [春节, 生肖, 羊, ]
 categories: ["Language", ]

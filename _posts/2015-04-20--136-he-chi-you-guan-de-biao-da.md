@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 136 - 和“吃”有关的表达
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-04-20
 tags: [吃饭, ]
 categories: ["Language", ]

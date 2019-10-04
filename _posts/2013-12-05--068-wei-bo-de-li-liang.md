@@ -14,7 +14,7 @@ summary: "慢速中文刚开播的时候，我告诉过大家，几乎每个上�
  
 "
 duration: "0:04:37.080816"
-length: "4830555"
+length: "4860532"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_068.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ summary: "“赵钱孙李，周吴郑王”这不是成语，而是一本著名�
  
 "
 duration: "0:01:45.608504"
-length: "2315368"
+length: "2077103"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_057.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

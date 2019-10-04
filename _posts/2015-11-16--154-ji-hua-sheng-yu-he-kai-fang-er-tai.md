@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 154 计划生育和开放二胎
-author: 小璐 Xiaolu and 艳君 Yanjun
+author: 艳君 Yanjun and 小璐 Xiaolu
 date: 2015-11-16
 tags: [二胎, 法律, 计划生育, ]
 categories: ["History-and-Tradition", "Modern-China", ]

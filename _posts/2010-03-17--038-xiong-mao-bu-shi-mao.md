@@ -13,7 +13,7 @@ summary: "熊猫也叫大熊猫，它人见人爱，被称为中国的“国宝�
  
 "
 duration: "0:03:00.501454"
-length: "3663104"
+length: "3369888"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_038.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

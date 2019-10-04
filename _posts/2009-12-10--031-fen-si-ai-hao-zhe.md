@@ -14,7 +14,7 @@ summary: "中文里面有一些有趣的词语，他们来自其他语言，但�
  
 "
 duration: "0:02:51.987425"
-length: "3510256"
+length: "3217022"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_031.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -28,7 +28,7 @@ summary: "今天我和大家说一说中国的环境问题。很明显，这不�
 
 "
 duration: "0:06:58.008927"
-length: "7937655"
+length: "7644455"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_040.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 133 - 过年的尴尬
-author: 希茜 Xixi and 艳君 Yanjun
+author: 艳君 Yanjun and 希茜 Xixi
 date: 2015-03-23
 tags: [拜年, 礼仪, 过年, ]
 categories: ["Modern-China", ]

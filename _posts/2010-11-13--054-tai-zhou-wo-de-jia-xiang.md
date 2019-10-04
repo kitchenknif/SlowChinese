@@ -14,7 +14,7 @@ summary: "我的家乡，是中国东部的一个海边小城，叫做台州。�
  
 "
 duration: "0:03:02.321355"
-length: "3696816"
+length: "3458372"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_054.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

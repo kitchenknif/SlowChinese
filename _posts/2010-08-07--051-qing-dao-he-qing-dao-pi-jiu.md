@@ -13,7 +13,7 @@ summary: "如果你问：中国有什么啤酒？大部分人会首先告诉你�
  
 "
 duration: "0:03:15.869513"
-length: "3940019"
+length: "3645047"
 ---
 
 <iframe src="https://archive.org/embed/slowchinese_201909/Slow_Chinese_051.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
