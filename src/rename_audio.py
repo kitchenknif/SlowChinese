@@ -10,5 +10,5 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             if "_{:d}.mp3".format(i) in fname and "Slow_Chinese" in fname:
                 os.rename(os.path.join(dirpath, fname), os.path.join(dirpath, "Slow_Chinese_{:03d}.mp3".format(i)))
 
-            if "_{:d}.mp3".format(i) in fname and "Reading_China" in fname:
+            if ("_{:02d}.mp3".format(i) in fname or "_{:d}.mp3".format(i) in fname) and "Reading_China" in fname:
                 os.rename(os.path.join(dirpath, fname), os.path.join(dirpath, "Reading_China_{:03d}.mp3".format(i)))
