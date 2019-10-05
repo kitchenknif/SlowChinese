@@ -9,12 +9,20 @@ import eyed3
 from xpinyin import Pinyin
 p = Pinyin()
 
+import wordfreq
+import thulac
+thu = thulac.thulac(seg_only=True)
+
 audiodir = "./websites/slow-chinese.com/podcasts/"
 workingdir = "./websites/slow-chinese.com/podcast/"
 targetdir = "../_posts/"
+wordlistdir = "../assets/word_lists/"
 
 if not os.path.exists(targetdir):
     os.makedirs(targetdir)
+
+if not os.path.exists(wordlistdir):
+    os.makedirs(wordlistdir)
 
 
 for dirpath, dnames, fnames in os.walk(workingdir):
@@ -69,7 +77,6 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             #
             # Write Markdown post
             #
-
             outlines = []
             outlines.append("---\n")
             outlines.append("layout: post\n")
@@ -114,3 +121,18 @@ for dirpath, dnames, fnames in os.walk(workingdir):
         with open(os.path.join(targetdir, date + "--" + outfname), "w") as f_out:
             f_out.writelines(outlines)
             f_out.writelines(transcript)
+
+        with open(os.path.join(wordlistdir, outfname), "w") as f_out:
+            transcript = "".join(transcript)
+            transcript = transcript.replace("\n", "")
+
+            text = thu.cut(transcript, text=True)
+
+            text = re.sub(r"\p{P}+", "", text)
+            text = re.sub(r"\d+", "", text)
+            words = text.split(" ")
+            words = [w for w in words if w]
+            words = list(dict.fromkeys(words))
+            words.sort(key=lambda x: wordfreq.word_frequency(x, 'zh'), reverse=True)
+            for w in words:
+                f_out.write(w + "\n")
