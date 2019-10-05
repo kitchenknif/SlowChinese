@@ -122,7 +122,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             f_out.writelines(outlines)
             f_out.writelines(transcript)
 
-        with open(os.path.join(wordlistdir, outfname), "w") as f_out:
+        with open(os.path.join(wordlistdir, os.path.splitext(outfname)[0] + ".txt"), "w") as f_out:
             transcript = "".join(transcript)
             transcript = transcript.replace("\n", "")
 
