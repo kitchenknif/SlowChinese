@@ -66,7 +66,6 @@
 走
 生活
 学生
-The
 一些
 这里
 还有
@@ -212,7 +211,6 @@ The
 词语
 称作
 工业化
-Peter
 融入
 文革
 偏见
@@ -222,12 +220,9 @@ Peter
 语言学
 细心
 维吾尔族
-River
 包容
 千方百计
-Town
 陈梦
-Country
 驾照
 距离感
 甲骨文
@@ -243,8 +238,4 @@ Country
 何伟
 波拉特
 寻路中国
-Bones
-Oracle
 涪陵
-Driving
-Hessler

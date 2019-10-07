@@ -134,6 +134,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
 
             text = re.sub(r"\p{P}+", "", text)
             text = re.sub(r"\d+", "", text)
+            text = re.sub(r"\p{Latin}+", "", text)
             words = text.split(" ")
             words = [w for w in words if w]
             words = list(dict.fromkeys(words))
