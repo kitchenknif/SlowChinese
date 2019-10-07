@@ -101,8 +101,8 @@
 电脑
 兴趣
 网
-或许
 翻译
+或许
 第三
 英文
 比如
@@ -134,10 +134,12 @@
 net
 词语
 沙发
+Chinese
 伏
 优化
 中文字
 就是说
+趣味
 原词
 音译
 一点儿
@@ -167,6 +169,7 @@ Cola
 英特网
 Coca
 Beer
+Slow
 Subway
 cellphone
 Uber

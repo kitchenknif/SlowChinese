@@ -14,7 +14,8 @@ import thulac
 thu = thulac.thulac(seg_only=True)
 
 audiodir = "./websites/slow-chinese.com/podcasts/"
-workingdir = "./websites/slow-chinese.com/podcast/"
+#workingdir = "./websites/slow-chinese.com/podcast/"
+workingdir = "./websites/slow-chinese.com2/"
 targetdir = "../_posts/"
 wordlistdir = "../assets/word_lists/"
 
@@ -30,6 +31,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
         if not ".html" in fname:
             continue
 
+        print(os.path.join(dirpath, fname))
         with open(os.path.join(dirpath, fname)) as f:
             soup = BeautifulSoup(f, 'html5lib')
             if "中文天天读" in soup.head.title.get_text() or "podcast Archives" in soup.head.title.get_text():
@@ -42,6 +44,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             #print(soup.title.string)
             fnametitle = soup.article.h1.a.get_text().replace(":", "-").replace("#", "").replace(" ", "-")
             title = soup.article.h1.a.get_text().replace(":", " -").replace("#", "")
+            print(title)
 
             episode_num = int(re.findall(r'\d+', fnametitle)[0])
             fnametitle = re.sub(r"\d+", "", fnametitle)
@@ -73,6 +76,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
                     start_text = start_text.next_sibling
             else:
                 transcript.append(soup.article.find_all("div", id="-0")[0].get_text())
+            transcript = ("".join(transcript)).strip()
 
             #
             # Write Markdown post
@@ -101,7 +105,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
                 outlines.append(
                     "file: //archive.org/download/slowchinese_201909/Slow_Chinese_{:03d}.mp3\n".format(
                         episode_num))
-                outlines.append("summary: \"{}\"\n".format("".join(transcript)))
+                outlines.append("summary: \"{}\"\n".format(transcript))
                 outlines.append("duration: \"{}\"\n".format(audiolength))
                 outlines.append("length: \"{}\"\n".format(audiosize))
 
@@ -123,7 +127,7 @@ for dirpath, dnames, fnames in os.walk(workingdir):
             f_out.writelines(transcript)
 
         with open(os.path.join(wordlistdir, os.path.splitext(outfname)[0] + ".txt"), "w") as f_out:
-            transcript = "".join(transcript)
+            #transcript = "".join(transcript)
             transcript = transcript.replace("\n", "")
 
             text = thu.cut(transcript, text=True)
