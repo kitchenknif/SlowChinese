@@ -75,7 +75,14 @@ for dirpath, dnames, fnames in os.walk(workingdir):
 
                     start_text = start_text.next_sibling
             else:
-                transcript.append(soup.article.find_all("div", id="-0")[0].get_text())
+                for s in soup.article.find_all("div", id="-0")[0].strings:
+                    transcript.append(s)
+
+            for i in range(len(transcript)):
+                if transcript[i].endswith("\n"):
+                    transcript[i] = transcript[i][:-1] + "  \n"
+
+
             transcript = ("".join(transcript)).strip()
 
             #
