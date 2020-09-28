@@ -1,6 +1,10 @@
 # SlowChinese
 慢速中文 Slow Chinese podcast mirror
 
+# Audio
+Main 慢速中文 podcast episodes are hosted at [https://archive.org/details/slowchinese_201909](https://archive.org/details/slowchinese_201909)  
+中文天天读 episodes are hosted at [https://archive.org/details/readingchina](https://archive.org/details/readingchina)  
+
 # Licensing 
 Code: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
